@@ -1,6 +1,6 @@
 # Deployment
 
-Padārtha-Vidyāgāra ships with two deployment recipes. Both are tested
+Padārtha-Vidyāgāra ships with three deployment recipes. All are tested
 against the current corpus; choose by feature-set.
 
 | Target | Reading view | Praveśa | Visualization | Pūrvapakṣin API | Śāstrika console |
@@ -8,11 +8,185 @@ against the current corpus; choose by feature-set.
 | GitHub Pages (static) | ✓ | ✓ | ✓ | ✗ | ✗ (intentional) |
 | Cloudflare Pages — static mode | ✓ | ✓ | ✓ | ✗ | ✗ (intentional) |
 | Cloudflare Pages — SSR mode | ✓ | ✓ | ✓ | ✓ | optional (gate behind auth) |
+| **Vercel** — Next.js native | ✓ | ✓ | ✓ | ✓ | optional (gate behind auth) |
 
 The pūrvapakṣin API needs a server runtime. The śāstrika console is
-intentionally excluded from public deploys (vision Part VI calls for
-authentication before the console is reachable; the current console
-has none, so we don't ship it).
+intentionally excluded from static public deploys (vision Part VI calls
+for authentication before the console is reachable). For SSR-capable
+targets it can ship behind an auth gate.
+
+**Recommended for production**: **Vercel** — it is Next.js's home host,
+needs no adapter, supports the entire feature set out of the box, and
+its free tier covers this site's expected traffic. Cloudflare Pages SSR
+is the second-best choice; GitHub Pages is for a static archive of the
+reading-only view.
+
+## Vercel
+
+The path of least friction. Vercel maintains Next.js, so the build
+pipeline understands every feature this app uses (server components,
+streaming SSE from `/api/purvapakshin`, `next/font` typography,
+`generateStaticParams`) without adapters or build-command tweaks.
+
+### One-time setup (3–4 minutes)
+
+1. **Create a Vercel account** at https://vercel.com if you don't have
+   one. Sign in with the GitHub account that owns `ananthavi/padartha-vidyagara`.
+2. **Import the project**: Vercel dashboard → *Add New* → *Project* →
+   pick `ananthavi/padartha-vidyagara`. The "Production Branch" selector should point
+   at `main` (Vercel will offer your current default;
+   change it if needed).
+3. **Framework preset**: Vercel auto-detects *Next.js*. Leave the build
+   defaults — they match this repo's `package.json` scripts:
+   - Build command: `npm run build` (which runs
+     `npm run validate:content && next build`)
+   - Output directory: `.next` (auto-detected)
+   - Install command: `npm install`
+   - Node version: `20.x` (default; matches the GH Actions workflow)
+4. **Environment variables** — add at least one provider key. The
+   pūrvapakṣin route returns 503 without one, so the build still
+   succeeds, but live dialogue needs:
+   - `ANTHROPIC_API_KEY` (uses `claude-sonnet-4-6`), and/or
+   - `GEMINI_API_KEY` (uses `gemini-pro-latest`)
+   - Optional: `LLM_PROVIDER=anthropic|gemini` to pin a specific
+     provider regardless of which keys are present.
+   Mark them as *Production* + *Preview* + *Development* if you want
+   preview deploys (per PR) to have access too. Marking as *Production*
+   only is safer if you'd rather not burn LLM credits on every preview.
+5. **Deploy**. The first build takes ~2–3 minutes. Subsequent pushes
+   to `main` trigger automatic deploys; PRs against it
+   get isolated preview URLs.
+
+### Domain
+
+By default Vercel gives you `<project>-<team>.vercel.app`. To use a
+custom domain (e.g. `padarthavidyagara.org`):
+
+- Vercel dashboard → Project → *Settings* → *Domains* → add the domain.
+- Set the DNS records Vercel shows you at your registrar. Vercel issues
+  the TLS certificate automatically (Let's Encrypt-backed).
+- Vercel handles the apex/`www` redirect either way you configure it.
+
+`NEXT_PUBLIC_BASE_PATH` is **not needed** for Vercel deploys (unlike
+GitHub Pages project-pages). The app lives at root.
+
+### Śāstrika console — gating the authoring surface
+
+The `/shastrika/*` subtree is left intact on Vercel by default (no
+`rm` step like the GH Pages workflow does), because Vercel can run
+the server components it needs. But the vision (Part VI) calls for
+authentication. Three options, weakest to strongest:
+
+1. **Vercel Deployment Protection — Password** *(Vercel Pro, paid)*:
+   Dashboard → Project → *Settings* → *Deployment Protection* → enable
+   *Password Protection*. Set one shared password. Anyone hitting any
+   route on this deployment is challenged. Simple, blunt, but blocks
+   the reading view too — only useful if you want the entire site
+   private during evaluation.
+2. **Vercel Authentication (SSO)** *(Vercel Pro/Enterprise)*: same
+   panel, *Vercel Authentication*. Allows specific email addresses
+   (Google/SAML/etc.) through. Still blocks the entire deployment.
+3. **Middleware-based path-prefix gate** *(works on free tier)*:
+   Add `middleware.ts` at the repo root that requires a session
+   cookie or a `Bearer` token only on `/shastrika/*`. The reading
+   view stays public; the console stays gated. This is the
+   recommended pattern for free-tier deploys until vision Part VI's
+   full auth-and-roles model lands. Sketch (not yet committed to
+   the repo — add when you actually need the console live):
+
+   ```ts
+   // middleware.ts (sketch)
+   import { NextResponse } from 'next/server';
+   import type { NextRequest } from 'next/server';
+
+   export function middleware(req: NextRequest) {
+     if (!req.nextUrl.pathname.startsWith('/shastrika')) {
+       return NextResponse.next();
+     }
+     const auth = req.headers.get('authorization');
+     const expected = `Bearer ${process.env.SHASTRIKA_TOKEN}`;
+     if (auth !== expected) {
+       return new NextResponse('shastrika', {
+         status: 401,
+         headers: { 'WWW-Authenticate': 'Bearer realm="shastrika"' },
+       });
+     }
+     return NextResponse.next();
+   }
+   export const config = { matcher: '/shastrika/:path*' };
+   ```
+
+   Set `SHASTRIKA_TOKEN` as a Vercel env var. A reviewer hits the
+   console with a bearer-token-capable client (curl, an extension)
+   or you replace this with a real session-based gate when needed.
+
+### Preview deployments
+
+Every PR opened against the production branch gets its own preview URL
+of the form `<branch-slug>-<project>.vercel.app`. Useful for śāstrika
+review of new concept-node authoring without touching production. The
+preview honors the same env vars as production unless you've scoped
+them differently.
+
+### Vercel CLI alternative
+
+If you prefer not to connect the repo to Vercel and only want occasional
+deploys (e.g. for a single demo):
+
+```bash
+npm install -g vercel
+vercel login
+cd /path/to/repo
+vercel              # interactive — pick org, project name, defaults
+vercel --prod       # promotes the current state to production
+```
+
+The CLI uses the same auto-detected Next.js settings.
+
+### `vercel.json`
+
+A minimal `vercel.json` at the repo root documents the build intent so
+the dashboard settings are reproducible. It carries no behaviour the
+dashboard couldn't set itself, but it makes the configuration
+version-controlled.
+
+### Cost
+
+For this site's expected traffic (low, contemplative, no analytics
+chasing engagement), the Vercel **Hobby (free)** tier is sufficient:
+100 GB bandwidth/month, unlimited static requests, a sensible quota of
+server-component executions. The LLM calls themselves are billed by
+Anthropic / Google, not by Vercel. If you go beyond Hobby (custom
+domain on a team account, multiple seats, Deployment Protection), the
+**Pro** tier is $20/month per seat.
+
+### What the deploy actually contains on Vercel
+
+Verify locally before pushing:
+
+```bash
+# SSR build — matches what Vercel produces
+npm run build
+# Then locally serve it (or use Vercel CLI for a parity preview)
+vercel build && vercel dev
+```
+
+The route table should show:
+
+| Route | Mode | What it is |
+|---|---|---|
+| `/` | static | redirect → `/en` |
+| `/[locale]` | SSG | praveśa entry (`en`, `ml`) |
+| `/[locale]/concept/[slug]` | SSG | reading view for `dravya`, `guṇa`, `karma`, `sāmānya`, `viśeṣa`, `samavāya` — 6 concepts × 2 locales = 12 pages |
+| `/[locale]/read` | SSG | corpus TOC |
+| `/[locale]/read/[text]/[chapter]` | SSG | 40 chapter pages (20 chapters × 2 locales) |
+| `/visualizations/samavaya` | static | the SVG demo |
+| `/api/purvapakshin` | server function | the dialectic engine route |
+| `/shastrika/*` | server function | authoring console (gate per above) |
+
+That's the full feature surface, live, with the engine reachable.
+
+---
 
 ## GitHub Pages
 
