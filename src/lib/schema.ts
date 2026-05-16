@@ -19,6 +19,13 @@ export const ContentStatus = z.enum([
   'under_review_ml',
   'published_en',
   'published_ml',
+  /**
+   * Published in both languages simultaneously. Distinct from `published_en`
+   * and `published_ml` because the original enum is single-locale; this
+   * cumulative value lets a depth be live in both EN and ML without
+   * cycling through separate transitions.
+   */
+  'published',
 ]);
 export type ContentStatus = z.infer<typeof ContentStatus>;
 
@@ -165,7 +172,9 @@ export const ConceptNode = z
       node.depths.vritti.status,
       node.depths.tika.status,
     ];
-    const hasPublished = depthStatuses.some((s) => s.startsWith('published'));
+    const hasPublished = depthStatuses.some(
+      (s) => s === 'published' || s.startsWith('published_'),
+    );
     if (hasPublished && node.source_refs.length === 0) {
       ctx.addIssue({
         code: z.ZodIssueCode.custom,
@@ -175,9 +184,12 @@ export const ConceptNode = z
           'Untraceable claims do not enter the corpus (vision Part I, commitment 2).',
       });
     }
-    // English-published depths require an EN verified source.
-    const wantsEnSource = depthStatuses.includes('published_en');
-    const wantsMlSource = depthStatuses.includes('published_ml');
+    // English-published depths require an EN verified source. `published`
+    // counts as both.
+    const wantsEnSource =
+      depthStatuses.includes('published_en') || depthStatuses.includes('published');
+    const wantsMlSource =
+      depthStatuses.includes('published_ml') || depthStatuses.includes('published');
     const anyVerified = node.source_refs.some(
       (r) => r.verified_by !== null && r.verified_at !== null,
     );

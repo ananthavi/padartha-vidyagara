@@ -9,6 +9,7 @@ import type { ContentStatus } from './schema';
 export type Locale = 'en' | 'ml';
 
 export function isPublishedFor(status: ContentStatus, locale: Locale): boolean {
+  if (status === 'published') return true;
   return locale === 'en' ? status === 'published_en' : status === 'published_ml';
 }
 

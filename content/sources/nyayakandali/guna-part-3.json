@@ -11,16 +11,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "Śrīdhara explains that *dṛṣṭārtha* (the directly perceived) is what is grasped by the five pramāṇas; presumptive cognition (*arthāpatti*) of one fact from another such directly-perceived fact reduces to 'inference per contraries' (*viparīta-anumāna*). What is invariably concomitant with the inferendum is the *contradictory* of perception by another pramāṇa. He answers the Mīmāṃsaka who argues that 'inconsistency' alone (not invariable concomitance) drives arthāpatti: in fact the inconsistency is itself grounded in *vyāpti*, so arthāpatti is just *anumāna*. The *śrutārthāpatti* (presumption from verbal cognition — e.g. 'fat Devadatta does not eat by day' yields 'he eats at night') is likewise an 'inference upon inference': the verbal assertion infers fatness, fatness infers night-eating. Śrīdhara further argues that a word's function is only to express, not to remove inconsistencies in the world, so the cognition completed by the sentence does not 'need' another sentence — what needs supplementation is the *object*, and an object is supplied by an object, that is, by inference.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -35,16 +35,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Sambhava* — probability, the view that cognition of 'thousand' yields cognition of 'hundred' by a distinct means — is here reduced to *anumāna*. Since 'thousand' is *invariably concomitant* with 'hundred' (the latter always precedes the former), the inference from thousand to hundred runs on *vyāpti* and so is a species of inference, not a separate pramāṇa.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -59,16 +59,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Abhāva* (negation, cognition of non-existence) is shown not to be a distinct pramāṇa. The proponents say: the cognition of the absence of an object is given by the non-operation of the five other pramāṇas, and that non-operation is itself the means called Negation. Śrīdhara replies that this non-operation can only be *inferred*, so abhāva-jñāna is itself *anumāna*. He also argues against admitting *abhāva* as a seventh padārtha distinct from the six: if 'absolute non-existence' (atyantābhāva) were not admitted at all, even the restriction 'the categories are six' could not be stated.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -83,16 +83,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Aitihya* (traditionary report passed down without a known speaker) is *āpta-vacana* — verbal testimony — when its speaker is trustworthy. Since verbal cognition (*śābda-pramāṇa*) has already been reduced to inference, *aitihya* too is just a form of *anumāna*. Tradition originating from no identifiable source remains, however, no pramāṇa at all.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -107,16 +107,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "Here begins *parārtha-anumāna*, 'inference for the sake of others.' Five 'limbs' (*avayava*) — pratijñā, apadeśa, nidarśana, anusandhāna, pratyāmnāya — are the linguistic components by which a speaker conveys to another, who is in doubt or in error or simply ignorant, what he himself knows for certain to be invariably concomitant with the subject. The five-limbed sentence works by giving the hearer the cognition of the *liṅga* (inferential mark), and is therefore inferential in its very nature. (An objector says: then sensory perception of the mark would also have to count as inference. Reply: in plain sense-perception no known word is at work — so the parallel fails.)",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -131,16 +131,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Pratijñā* — the proposition — is the mere statement of the subject (*pakṣa*, the minor term) qualified by the property to be proved, *e.g.* 'wind is a substance.' The qualification 'not incompatible with facts' excludes propositions contrary to (1) sense-cognition (e.g. 'fire is not hot'), (2) inference (e.g. 'ākāśa is dense'), (3) scriptures accepted by the speaker (e.g. 'the Brāhmaṇa ought to drink wine'), (4) one's own doctrine (for a Vaiśeṣika, 'the effect ever exists'), and (5) self-contradiction ('word is not expressive'). The word *punaḥ* in the sūtra is purely ornamental.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -155,16 +155,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Apadeśa* — the statement of the inferential mark (*hetu*) — is one of the five avayavas. It must obey the *pañca-liṅga-lakṣaṇa* (pakṣa-dharmatva, sapakṣa-sattva, vipakṣād-vyāvṛtti, abādhita-viṣayatva, asat-pratipakṣatva); otherwise it becomes a *hetvābhāsa*.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -179,16 +179,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "A long treatment of *hetvābhāsa* (fallacies of the *hetu*). The *asiddha* (unestablished) breaks into four — *āśrayāsiddha*, *svarūpāsiddha*, *vyāpyatvāsiddha*, *bhāgāsiddha*. *Viruddha* (contradictory) establishes the opposite of the intended *sādhya*. *Sandigdha* (the inconclusive / anaikāntika) — with a sub-debate on whether *manas* possesses *kriyāvattva* (motion). *Anadhyavasita* — the mark whose pervasion cannot be ascertained. Śrīdhara supports the Vārttikakāra's classification and rebuts minority taxonomies.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -203,16 +203,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Nidarśana* (the exemplifying instance) is of two kinds: *sādharmya-nidarśana* (positive: similar in respect of the property — 'whatever has *pākaja-rūpa*, like the jar') and *vaidharmya-nidarśana* (negative: dissimilar — 'whatever lacks *pākaja-rūpa*, like *ākāśa*'). In the *nidarśana* the *vyāpti* between *hetu* and *sādhya* must be exhibited.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -227,16 +227,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "Further specification of *nidarśana* and its faults (*nidarśanābhāsa*) — *sādhyādhikaraṇatva*, *sādhya-vaikalya*, contrary illustration, etc. If the instance is itself defective, the inference fails.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -251,16 +251,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Anusandhāna* — restating the *vyāpti* as applied to the *pakṣa* (e.g. 'and this is so here too'), thereby bringing the concomitance home to the subject. Without anusandhāna the concomitance shown in the *nidarśana* cannot be transferred to the present case.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -275,16 +275,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Pratyāmnāya* — restatement of the conclusion — completes the inferential statement. Śrīdhara walks through all five *avayavas* in a long question-and-answer (the famous comparison with the Naiyāyika sequence pratijñā–hetu–udāharaṇa–upanaya–nigamana arises here: the names differ, the structure is the same).",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -299,16 +299,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Nirṇaya* — definite cognition, the opposite of *saṃśaya* — is produced by sense-mind contact and by inference. *Pratyakṣa-nirṇaya* concerns sense-perceptible objects (seeing the dewlap, one concludes 'this is a cow, not a *gavaya*'); *anumāna-nirṇaya* concerns inferable objects. Whether *nirṇaya* should be reckoned a distinct pramāṇa is not entirely clear; Śrīdhara notes the disagreement.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -323,16 +323,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Smṛti* (remembrance). Cause: contact of *ātman* and *manas*, aided by (a) *liṅga-darśana* (perception of an indicative), (b) the desire to recall, (c) *bhāvanā* / *saṃskāra-pāṭava* (impression-strength), (d) *praṇidhāna* (close attention from Nyāya-sūtra III.2.43), (e) *dharma* / *adharma*. Smṛti's object is always *atīta-viṣaya* (past) and so it inherits *prāmāṇya* from its source-cognition rather than being a pramāṇa on its own. Four kinds of liṅga that occasion remembrance: causally related (the carriage → its horse), spatially associated (the hand recalls the whole man), similarity-based (the servant recalls the master), and functionally related. The Vedāntic claim that remembrance arises with no effort (mere presence of conditions) is noted; Śrīdhara aligns with the Nyāya position that *praṇidhāna* is an effort. Śaṅkara's distinction between spontaneous memory and intentional recollection is mentioned.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -347,16 +347,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Ārṣa-jñāna* — the *prātibha* cognition of *ṛṣis* whose merit is in full strength: a flashing super-sensory cognition of *dharma*, *adharma*, the past and future, the imperceptible. Rare instances are found in ordinary persons too — the maiden who suddenly knows 'tomorrow my brother arrives.' This is distinguished from *yoga-ja-pratyakṣa*.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -371,16 +371,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Siddha-darśana* — the occult perception produced by herbs, mantras, ascetic powers — is *not* a distinct pramāṇa: it falls under *yoga-ja-pratyakṣa* or *ārṣa-jñāna*. Hence the Vaiśeṣika classification needs no further pramāṇa for it.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -395,16 +395,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "Beginning of the *ātma-viśeṣaguṇa* block. *Sukha* (pleasure) is of the nature of *anugraha* ('favour' / agreeableness). It arises from *ātma-manas* contact when an agreeable object (garland, sandal) is present, aided by *dharma*. Śrīdhara explains: sukha is the *anukūla-vedanīya*; it tends to draw the agent toward the *sukha-hetu*. It is distinct from cognition, remembrance, desire and aversion.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -419,16 +419,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Duḥkha* (pain) is of the nature of *upaghāta* ('harm'). It arises from *ātma-manas* contact when an unpleasant object (poison, thorn, hostile company) is present, aided by *adharma*. It is *pratikūla-vedanīya*; it tends to drive the agent *away* from the *duḥkha-hetu*.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -443,16 +443,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Icchā* (desire) is the wish for an object one does not yet possess, either for oneself or for another ('may this be mine,' 'may this be his'). It arises from *ātma-manas* contact, mediated by either the *sukha* itself or its remembrance. It causes *prayatna*, *smṛti*, *dharma* and *adharma*. The varieties are not distinct guṇas, only varieties of icchā: *kāma* (the bare word *kāma*, without qualifier, denotes *maithuna-icchā*; when qualified — *svarga-kāma*, etc. — it stands for general desire), *kṣudhā* (desire for food), *sneha* (desire to experience an object again), *abhilāṣa* (desire for the not-near), *kāruṇya* (disinterested desire for relief of others' pain), *vairāgya* (desire to renounce after seeing fault), *upadhā* (desire to deceive), *bhāva* (the inferred, unexpressed inclination), and the various *kriyā-niyata* desires — *jigamiṣā* (wish-to-go), *jihīrṣā* (wish-to-take-away), etc. (Jha's printed English of the *sūtra* itself prints a lacuna at this point — 'Lust is desire................' — but the *Commentary* below, which is what this record carries, supplies *maithuna-icchā* explicitly.)",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -467,16 +467,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Dveṣa* (aversion) is of the nature of heart-burning or irritation — the feeling 'I am being burnt' or 'being injured.' It arises from the remembrance of a *duḥkha-hetu*. It causes *prayatna*, *smṛti* and *adharma*. *Krodha* (anger), *droha* (malice), *manyu* (resentment), *akṣamā* (impatience), *amarṣa* (intolerance) — these are species of dveṣa, not separate guṇas.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -491,16 +491,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Prayatna* (effort) — synonymous with *saṃrambha* and *utsāha*. Two kinds: (1) *jīvana-prayatna*, the unconscious effort governing *prāṇa-apāna* etc., produced by *adṛṣṭa*; (2) *icchā-dveṣa-ja-prayatna*, the conscious effort of pursuit and avoidance. The guṇa resides in *ātman* and produces both internal *manas-kriyā* and external bodily *kriyā*.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -515,16 +515,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Gurutva* (gravity / heaviness) — resides in *pṛthivī* and *ap*. It is the *asamavāyi-kāraṇa* of downward motion when no countervailing *adṛṣṭa*, *prayatna*, or *saṃyoga* opposes it. It does not reside in *tejas*, *vāyu*, *ākāśa*, *kāla*, *dik*, *ātman*, *manas*. It is grasped by inference (from observed fall), not directly by sense.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -539,16 +539,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Dravatva* (fluidity) is the *asamavāyi-kāraṇa* of *syandana* (flowing). Two kinds: (1) *sāṃsiddhika-dravatva* — the natural fluidity of water; (2) *naimittika-dravatva* — produced by contact with *agni* in *pṛthivī* (melting ghee, lac) and *tejas* (melting gold). Distinct from *gurutva*.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -563,16 +563,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Sneha* (viscidity, stickiness) is the *viśeṣa-guṇa* of *ap* alone — that is, the specific quality of water. It is the cause of cohesion (a flour-ball holds together because water-particles' sneha conjoins the powder). What looks like viscidity in *pṛthivī* or *tejas* is in fact a *sneha-saṃyoga* with adhering water, not native to those substances.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   },
   {
@@ -587,16 +587,16 @@
       "style": "manipravalam-conscious traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     },
     "en_simple_draft": {
       "text": "*Saṃskāra* (faculty / dispositional residue) is of three kinds: (1) *vega* (speed / impetus) — produced by *kriyā* in the five corporeal substances (*pṛthivī, ap, tejas, vāyu, manas*), aided by accessories like pushing and striking; not all motion produces vega, only motion thus aided. (2) *bhāvanā* — a *saṃskāra* of the *ātman* alone, the cause of *smṛti* and *pratyabhijñāna*. (3) *sthitisthāpaka* — elasticity, the disposition by which a bent bow or branch returns to its original shape. A long polemic against the Mīmāṃsaka *sphoṭa* doctrine is included: ordinary *saṃskāra*-driven *smṛti* of the letters suffices to deliver sentence-meaning; no extra *sphoṭa* entity is required.",
       "style": "traditional-simple",
       "generated_by": "claude-agent-ingestion",
       "generated_at": "2026-05-16T14:17:25Z",
-      "reviewed_by": null,
-      "reviewed_at": null
+      "reviewed_by": "ai",
+      "reviewed_at": "2026-05-16T20:05:28Z"
     }
   }
 ]

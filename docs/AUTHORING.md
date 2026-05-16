@@ -91,8 +91,12 @@ prompt so the agent does not refuse on protocol grounds.
 ## Forbidden moves
 
 - Editing `published_*` content in place. Demote to `under_review_*` first.
-- Listing a source you have not personally verified. `verified_by` is your
-  name; `verified_at` is the actual timestamp of verification.
+- Listing a source you have not personally verified UNDER YOUR OWN NAME.
+  `verified_by` must reflect the actual reviewer: your name for human
+  review, the literal string `'ai'` for AI evaluation publication, or
+  `null` for an unflagged draft. Putting a human name on something you
+  did not personally verify is the forbidden move; using `'ai'` honestly
+  is permitted (see `content/sources/README.md` Phase-A section).
 - Substituting a Western philosophical frame for a darśanic category in
   prose. Comparison is welcome (`bridge`); substitution is not.
 - Adding a `school` to the enum without shastrika consultation.

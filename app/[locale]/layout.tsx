@@ -42,6 +42,13 @@ export default function LocaleLayout({
           </Link>
           <nav className="text-xs text-ink-faint">
             <Link
+              href={`/${params.locale}/read`}
+              className="underline-offset-4 hover:underline hover:text-ink-muted"
+            >
+              {params.locale === 'ml' ? 'പാഠം' : 'read'}
+            </Link>
+            <span className="mx-2 text-ink-faint/50">·</span>
+            <Link
               href="/en"
               className={`underline-offset-4 hover:underline ${params.locale === 'en' ? 'text-ink-muted' : ''}`}
             >

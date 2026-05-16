@@ -42,13 +42,27 @@ Source content is built up in two phases.
 For the initial corpus build, wisdomlib.org's edition of *Padārthadharmasaṅgraha
 and Nyāyakandalī* is acceptable as a starting source for both Sanskrit
 (Devanagari + IAST) and Ganganatha Jha's English translation. This is a
-deliberate relaxation of the strict "no scraping" rule below, scoped to
-content that is **flagged unverified throughout**:
+deliberate relaxation of the strict "no scraping" rule below.
 
-- `verified_by` and `verified_at` on every `SourceRef` stay `null`.
-- `reviewed_by` and `reviewed_at` on every `PassageRendering` stay `null`.
-- The reading view never surfaces unverified content (the schema and
-  `loadPublishedConcepts` enforce this).
+### `reviewed_by: 'ai'` — the evaluation-phase flag
+
+For the current evaluation phase, the literal string `'ai'` is the
+canonical value of `verified_by` (on `SourceRef`) and `reviewed_by`
+(on `PassageRendering`) when content is published for evaluation
+without a śāstrika having read it. It is **distinct from `null`** (which
+means "no one has looked at this") and from any human name (which means
+"this person personally verified it"). The three states should be read:
+
+- `null` — Phase-A draft, sitting in the corpus, not surfaced.
+- `'ai'` — published for evaluation; rectified on the go. The reading
+  view and the `/read` corpus browser DO surface this content.
+- a human name — Phase-B canonical; supersedes the AI flag. The
+  authoring console diffs the human review against the AI draft.
+
+The schema doesn't enforce string literals here (any non-null string is
+valid), so the convention is documented rather than typed. Anyone adding
+content for evaluation should set `reviewed_by: 'ai'` and `reviewed_at`
+to the ISO timestamp at which the AI draft was generated or last edited.
 
 Provenance is documented in `content/sources/_ingestion_notes_*.md` per
 chapter. Wisdomlib's known issues — OCR-era Devanagari typos, Jha's own

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "madhyamaka.samavaya.regress",
+    "school": "madhyamaka",
+    "thinker": "Nāgārjuna",
+    "source_text": "Mūlamadhyamakakārikā, Pratyaya-parīkṣā (ch. 1) and Saṃskṛta-parīkṣā (ch. 7); applied to samavāya by way of MMK's general dependency-arising argument against any ultimate relation.",
+    "attestation": "reconstructed",
+    "objection_summary_en": "If samavāya is meant to be the *real, ultimate* relation that holds cloth-in-threads or quality-in-substance, then ask what relation in turn holds samavāya to its own relata. If samavāya itself, you have a self-relating thing with no further explanation — bare assertion. If a further relation, you have an infinite regress (anavasthā). And if no relation at all, samavāya doesn't relate. The Vaiśeṣika says samavāya is svātma-vṛtti, self-relating; but 'self-relation' for an ultimate, single, eternal entity is exactly the empty (śūnya) move Nāgārjuna's analysis exposes — it is unintelligible without dependence, and dependence undoes its claimed self-sufficiency. The cloth-thread case isn't a case of two real things bound by a real third; it's three concepts whose 'reality' is borrowed from each other without remainder. Samavāya, like svabhāva, fails its own definition under analysis.",
+    "objection_summary_ml": "സമവായം എന്നുള്ളത് നൂലുകൾ-പടം, ഗുണം-ദ്രവ്യം എന്നിവയെ ബന്ധിക്കുന്ന 'യഥാർത്ഥ-പരമാർത്ഥ' സംബന്ധമാണെങ്കിൽ, അതിനെ അതിന്റെ ബന്ധിത-വസ്തുക്കളോട് ബന്ധിക്കുന്നത് എന്താണ്? സമവായം തന്നെയെങ്കിൽ — സ്വയം-സംബന്ധി-വസ്തു — അത് വെറും അവകാശവാദമാണ്, വിശദീകരണമല്ല. വേറൊരു സംബന്ധമെങ്കിൽ അനവസ്ഥ. ഒന്നുമല്ലെങ്കിൽ സമവായം ബന്ധിക്കുന്നില്ല. വൈശേഷികർ 'സ്വാത്മ-വൃത്തി' (സ്വയം-വർത്തനം) എന്ന് പറയുന്നു — പക്ഷേ ഏക-നിത്യ-പരമാർത്ഥ-വസ്തുവിന് 'സ്വയം-സംബന്ധം' എന്നുള്ളത് — അതാണ് നാഗാർജ്ജുനൻ വിശ്ലേഷണത്തിലൂടെ ശൂന്യം (നിസ്സ്വരൂപം) എന്ന് കാട്ടുന്ന നീക്കം. ആശ്രയത്വം കൂടാതെ അത് അർത്ഥശൂന്യമാണ്; ആശ്രയത്വം അംഗീകരിച്ചാൽ അതിന്റെ സ്വയം-സിദ്ധി ഇല്ലാതാകുന്നു. നൂല്-പട-ഉദാഹരണം 'രണ്ടു യഥാർത്ഥ-വസ്തുക്കളും ഒരു മൂന്നാം-സംബന്ധവും' ആയല്ല കാണേണ്ടത് — പരസ്പരാശ്രയത്താൽ പരസ്പരം 'യാഥാർത്ഥ്യം' കടം വാങ്ങുന്ന മൂന്ന് സങ്കൽപ്പങ്ങളായാണ്. സ്വഭാവത്തെപ്പോലെ സമവായവും അതിന്റെ സ്വന്തം നിർവചനത്തിൽ പരാജയപ്പെടുന്നു.",
+    "siddhanta_response_summary_en": "Śrīdhara's reply in Nyāyakandalī (Text 161) anticipates the regress: samavāya is svātma-vṛtti precisely because it is itself of the nature of subsisting-relation — like bhāva (sattā), it does not require a further relation to be in something, because being-a-relation is what it is. The Vaiśeṣika does not assert samavāya as a thing that needs binding; it is the binding, and that is why it is atīndriya (imperceptible) — it is grasped only by inference from the iha-pratyaya cognition, not by sense.",
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  },
+  {
+    "id": "madhyamaka.samavaya.relata-emptiness",
+    "school": "madhyamaka",
+    "thinker": "Candrakīrti",
+    "source_text": "Prasannapadā (commentary on MMK), and Madhyamakāvatāra; applied to samavāya by extension of Candrakīrti's argument against svabhāva-bearing entities.",
+    "attestation": "reconstructed",
+    "objection_summary_en": "Grant for the moment that samavāya is well-defined as a relation. The relata it relates — the threads, the cloth, the substance, the quality — are themselves not ultimately real entities (svabhāva-śūnya); they exist only through pratītyasamutpāda (dependent arising). A relation between two things that are themselves empty does not gain reality from the relation — it merely doubles the emptiness. The Vaiśeṣika's whole categorial scheme is committed to the claim that dravya, guṇa, karma etc. are real categories of being. The Mādhyamika denial cuts at the root: there are no such categories at the ultimate level, hence no samavāya to relate them.",
+    "objection_summary_ml": "സമവായം ഒരു സംബന്ധമായി നന്നായി നിർവചിക്കപ്പെട്ടിരിക്കുന്നു എന്ന് ഒരു നിമിഷം അംഗീകരിക്കാം. അത് ബന്ധിക്കുന്ന വസ്തുക്കൾ — നൂലുകൾ, പടം, ദ്രവ്യം, ഗുണം — സ്വയം പരമാർത്ഥതയിൽ യഥാർത്ഥ-വസ്തുക്കളല്ല (സ്വഭാവ-ശൂന്യങ്ങൾ); അവ പ്രതീത്യ-സമുത്പാദത്താൽ മാത്രമേ വർത്തിക്കുന്നുള്ളൂ. ശൂന്യങ്ങളായ രണ്ടു വസ്തുക്കൾക്കിടയിലെ സംബന്ധം സംബന്ധത്തിൽ നിന്ന് യാഥാർത്ഥ്യം നേടുന്നില്ല — ശൂന്യത്വം ഇരട്ടിക്കുന്നു അത്രമാത്രം. വൈശേഷിക-പദാർത്ഥ-വ്യവസ്ഥ ദ്രവ്യ-ഗുണ-കർമ്മാദികളെ യഥാർത്ഥ-സത്താ-ഗണങ്ങളായാണ് കാണുന്നത്. മാധ്യമിക-നിരാകരണം മൂലത്തിൽ വെട്ടുന്നു: പരമാർത്ഥ-തലത്തിൽ അത്തരം ഗണങ്ങളില്ല, അതുകൊണ്ട് അവയെ ബന്ധിക്കാൻ സമവായവുമില്ല.",
+    "siddhanta_response_summary_en": "Śrīdhara does not engage śūnyatā directly in Nyāyakandalī, but his general defence (Texts 159-161) is that the Vaiśeṣika padārtha enumeration is established by the irreducibility of the cognitions iha-dravyam, iha-guṇaḥ, iha-karma — these cognitions are veridical (pramāṇa-siddha) and not amenable to deflation. Whether that defence holds against the Mādhyamika is exactly what live dialogue should examine.",
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  },
+  {
+    "id": "sautrantika.samavaya.ksanikavada",
+    "school": "sautrantika",
+    "thinker": "Vasubandhu",
+    "source_text": "Abhidharmakośa-bhāṣya (esp. on momentariness, kṣaṇikavāda); applied to samavāya by extension.",
+    "attestation": "reconstructed",
+    "objection_summary_en": "All conditioned dharmas are momentary (kṣaṇika) — they arise and perish at every instant. Samavāya, by Praśastapāda's account, is eternal (nitya), self-relating, single across all cases. But an *eternal* relation between *momentary* relata is a category error: by the time the relation 'holds', the relata have already perished and been replaced by their successors. The 'cloth-in-threads' is not a single inseparable pair; it is a fast sequence of resemblance-related thread-moments mistaken by us for a continuous fabric, and a fast sequence of cloth-moments arising in dependence on them. What you call samavāya is the conceptual stitching (vikalpa) by which we falsely reify this stream as a single 'whole'. The samavāya category is the post-hoc rationalisation of a perceptual error.",
+    "objection_summary_ml": "സർവ്വ-സംസ്കൃത-ധർമ്മങ്ങളും ക്ഷണികങ്ങളാണ് (ക്ഷണിക-വാദം) — അവ ഓരോ ക്ഷണത്തിലും ഉത്പന്നമാകുകയും നശിക്കുകയും ചെയ്യുന്നു. പ്രശസ്തപാദന്റെ വ്യാഖ്യാനത്തിൽ സമവായം നിത്യമാണ് — ഏകം, സ്വയം-സംബന്ധി, എല്ലാ കേസുകളിലും ഒന്ന്. എന്നാൽ ക്ഷണിക-ബന്ധിത-വസ്തുക്കൾക്കിടയിലെ നിത്യ-സംബന്ധം ഒരു വർഗ്ഗ-വ്യത്യാസ-ദോഷം (category error) ആണ്: സംബന്ധം 'വർത്തിക്കുന്ന' സമയത്തിനു മുമ്പ് തന്നെ ബന്ധിത-വസ്തുക്കൾ നശിച്ച് അനന്തരായികളാൽ പകരം വയ്ക്കപ്പെട്ടു കഴിഞ്ഞു. 'നൂലുകളിൽ പടം' എന്നുള്ളത് ഒരൊറ്റ അയുതസിദ്ധ-ജോഡിയല്ല; സാദൃശ്യ-ബന്ധിതരായ നൂൽ-ക്ഷണ-സന്തതിയും അതിനെ ആശ്രയിച്ച് ഉത്പന്നമാകുന്ന പട-ക്ഷണ-സന്തതിയും തുടർച്ചയായ ഒറ്റ-വസ്ത്രമായി തെറ്റിദ്ധരിക്കുന്നതാണ്. നിങ്ങൾ സമവായം എന്ന് വിളിക്കുന്നത് ഈ പ്രവാഹത്തെ 'അവയവി' എന്ന ഏക-വസ്തുവായി തെറ്റായി-ദൃഢീകരിക്കുന്ന വികൽപ്പ-തുന്നലാണ്. സമവായ-വർഗ്ഗം ഈ പ്രത്യക്ഷ-ദോഷത്തിന്റെ പിന്നീടുള്ള ന്യായീകരണമാണ്.",
+    "siddhanta_response_summary_en": "Śrīdhara's Nyāyakandalī defends Vaiśeṣika realism about wholes (avayavin) against the Buddhist denial, arguing that the cognition of cloth as a single object is not a vikalpa but a veridical perception with its own pramāṇa-grounding (the iha-pratyaya). The samavāya argument runs through this defence: if there really IS a cloth (avayavin) distinct from but inseparable from its threads, samavāya is the name of the relation that makes that inseparability intelligible. The kṣaṇika critique therefore stands or falls with the prior defence of avayavin-realism.",
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  },
+  {
+    "id": "yogacara.samavaya.vijnaptimatra",
+    "school": "yogacara",
+    "thinker": "Vasubandhu (as Yogācārin)",
+    "source_text": "Triṃśikā-vijñaptimātratā-siddhi and Viṃśatikā; applied to samavāya by extension of vijñaptimātratā.",
+    "attestation": "reconstructed",
+    "objection_summary_en": "What grounds the Vaiśeṣika's confidence that there are external relata for samavāya to relate? The iha-pratyaya cognition — 'this is in that' — is, on the Yogācāra view, a structure of consciousness itself (vijñapti), not a window onto a mind-independent world of substances-and-qualities. Threads, cloth, substance, quality, and even the 'relation' between them are all transformations of the eight-fold consciousness-stream (ālayavijñāna and its modifications). There is no external samavāya because there are no external relata; what the Vaiśeṣika takes to be the eternal relation underwriting 'this-in-that' is just the structure of how consciousness presents its own content as objectified. The disagreement is not over whether the iha-pratyaya occurs — it does — but over what its occurrence proves.",
+    "objection_summary_ml": "സമവായം ബന്ധിക്കാൻ ബാഹ്യ-വസ്തുക്കൾ ഉണ്ടെന്ന വൈശേഷിക-വിശ്വാസത്തിന്റെ അടിത്തറ എന്താണ്? 'ഇത് അതിൽ ഉണ്ട്' എന്ന ഇഹ-പ്രത്യയം, യോഗാചാര-വീക്ഷണത്തിൽ, ബോധത്തിന്റെ തന്നെ ഘടനയാണ് (വിജ്ഞപ്തി) — മനസ്സിനു-വെളിയിലുള്ള ദ്രവ്യ-ഗുണ-ലോകത്തിലേക്കുള്ള ഒരു ജാലകമല്ല. നൂലുകൾ, പടം, ദ്രവ്യം, ഗുണം, അവയ്ക്കിടയിലെ 'സംബന്ധം' — എല്ലാം എട്ടു-വിജ്ഞാന-പ്രവാഹത്തിന്റെ (ആലയ-വിജ്ഞാനവും അതിന്റെ പരിണാമങ്ങളും) രൂപാന്തരങ്ങളാണ്. ബാഹ്യ-സമവായം ഇല്ല, കാരണം ബാഹ്യ-ബന്ധിത-വസ്തുക്കൾ ഇല്ല. വൈശേഷികർ 'ഇത് അതിൽ' എന്നതിന്റെ നിത്യ-സംബന്ധമായി കാണുന്നത് ബോധം സ്വന്തം ഉള്ളടക്കത്തെ വസ്തുവായി അവതരിപ്പിക്കുന്ന ഘടന മാത്രമാണ്. ഇഹ-പ്രത്യയം ഉണ്ടോ എന്നതല്ല വ്യത്യാസം — അത് ഉണ്ട് — അതിന്റെ ഉണ്മ എന്ത് തെളിയിക്കുന്നു എന്നതാണ്.",
+    "siddhanta_response_summary_en": null,
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  },
+  {
+    "id": "mimamsa.samavaya.svabhava-sufficient",
+    "school": "mimamsa",
+    "thinker": "Kumārila Bhaṭṭa",
+    "source_text": "Ślokavārttika, Sambandhākṣepa-parihāra chapter; and the Bhāṭṭa engagement with Vaiśeṣika categoriology generally.",
+    "attestation": "attested",
+    "objection_summary_en": "The Bhāṭṭa accepts that qualities reside in substances, parts in wholes, generic kinds in individuals. What the Bhāṭṭa denies is that this residence requires a *separate sixth padārtha* — samavāya — to underwrite it. The residence is *svābhāvika*: it follows from the very nature (svabhāva) of substance, quality, etc. A substance just is what bears qualities; we do not need a fifth or sixth entity ('the relation between them') as a further posit. Praśastapāda's argument that we need samavāya to explain the iha-pratyaya cuts no ice for the Bhāṭṭa: the iha-pratyaya is fully explained by the natures of the relata themselves. Postulating samavāya is gratuitous (anavāpta-prasaṅgaḥ); Occam's-razor-style, the simpler theory wins.",
+    "objection_summary_ml": "ഭാട്ട-മീമാംസകർ ഗുണങ്ങൾ ദ്രവ്യത്തിൽ വർത്തിക്കുന്നു, ഭാഗങ്ങൾ അവയവിയിൽ വർത്തിക്കുന്നു, സാമാന്യം വ്യക്തിയിൽ വർത്തിക്കുന്നു എന്ന് അംഗീകരിക്കുന്നു. ഭാട്ടർ നിരാകരിക്കുന്നത് ഈ വർത്തനത്തിന് വേറൊരു ആറാം-പദാർത്ഥം — സമവായം — അനിവാര്യമാണ് എന്നതാണ്. ഈ വർത്തനം സ്വാഭാവികമാണ്: ദ്രവ്യ-ഗുണാദികളുടെ സ്വഭാവത്തിൽ നിന്നു തന്നെ വരുന്നു. ദ്രവ്യം എന്നുള്ളത് ഗുണങ്ങളെ വഹിക്കുന്നതാണ്; അവയ്ക്കിടയിലെ 'സംബന്ധം' എന്ന ഒരു അഞ്ചാമത്-ആറാമത് വസ്തു ആവശ്യമില്ല. ഇഹ-പ്രത്യയത്തെ വിശദീകരിക്കാൻ സമവായം വേണം എന്ന പ്രശസ്തപാദ-വാദം ഭാട്ടർക്ക് ബാധകമല്ല: ഇഹ-പ്രത്യയം ബന്ധിത-വസ്തുക്കളുടെ സ്വഭാവത്താൽ തന്നെ പൂർണ്ണമായി വിശദീകരിക്കപ്പെടുന്നു. സമവായ-കൽപ്പന അനാവശ്യമാണ് (അനവാപ്ത-പ്രസംഗം); ലളിത-സിദ്ധാന്തം ജയിക്കുന്നു.",
+    "siddhanta_response_summary_en": "Śrīdhara replies (Nyāyakandalī on Text 159) that the appeal to svabhāva is unintelligible without specifying what bears that svabhāva — and once you specify it, you have the relata and the residence, which is exactly what samavāya names. To say the residence is 'just the nature of substance' is to give a label without an account; samavāya is the account. Moreover, if substance's svabhāva is 'bearing qualities', the bearing-relation is itself a structural fact that needs to be admitted somewhere in the ontology — and the Bhāṭṭa, by refusing it as a separate padārtha, smuggles it in as part of the substance category, paying the ontological cost without naming the bill.",
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  },
+  {
+    "id": "advaita.samavaya.mithyatva",
+    "school": "advaita",
+    "thinker": "Śaṅkara (and the Advaita tradition)",
+    "source_text": "Brahma-sūtra-bhāṣya 2.2.11-17, refuting Vaiśeṣika; applied to samavāya by extension.",
+    "attestation": "attested",
+    "objection_summary_en": "At the vyāvahārika (empirical) level, the Vaiśeṣika's analysis of cloth-and-threads is internally consistent — and samavāya is a serviceable construct within that level. At the pāramārthika (absolute) level, however, the categorial scheme dissolves: there is only Brahman, advaya (non-dual), and the appearance of multiplicity — substances, qualities, and the relations between them — is mithyā (illusory, neither real nor unreal). To posit samavāya as eternal, self-relating, the underwriter of all 'this-in-that' cognitions, is to give ultimate ontological status to what is, on the Advaita view, a feature of avidyā (cognitive ignorance). The Advaitin doesn't refute the Vaiśeṣika on the Vaiśeṣika's own terms — the system works fine for vyāvahāra — but denies that it captures the truth of what there is.",
+    "objection_summary_ml": "വ്യാവഹാരിക-തലത്തിൽ വൈശേഷിക-വിശ്ലേഷണം — നൂലുകൾ, പടം, സമവായം — ആന്തരികമായി സ്ഥിരതയുള്ളതാണ്. പാരമാർത്ഥിക-തലത്തിൽ ഈ പദാർത്ഥ-വ്യവസ്ഥ അലിഞ്ഞുപോകുന്നു: അദ്വയ-ബ്രഹ്മം മാത്രമേയുള്ളൂ, ബാഹുല്യത്തിന്റെ പ്രതീതി — ദ്രവ്യങ്ങൾ, ഗുണങ്ങൾ, അവയ്ക്കിടയിലെ സംബന്ധങ്ങൾ — മിഥ്യയാണ് (സദ്-അസത്-വിലക്ഷണം). സമവായത്തെ നിത്യം, സ്വയം-സംബന്ധി, എല്ലാ 'ഇത് അതിൽ' പ്രത്യയത്തിന്റെയും അടിത്തറ എന്ന് അംഗീകരിക്കുന്നത് അവിദ്യയുടെ ലക്ഷണത്തിന് പരമാർത്ഥ-സ്ഥിതി കൊടുക്കുന്നതാണ്. അദ്വൈതി വൈശേഷികനെ വൈശേഷിക-വ്യവസ്ഥയിൽ വച്ച് നിരാകരിക്കുന്നില്ല — വ്യാവഹാരത്തിന് അത് മതി — പക്ഷേ 'യഥാർത്ഥമായി എന്താണുള്ളത്' എന്ന സത്യത്തെ അത് ഗ്രഹിക്കുന്നില്ല എന്ന് നിഷേധിക്കുന്നു.",
+    "siddhanta_response_summary_en": "Śrīdhara does not address two-truths Vedānta directly in Nyāyakandalī, but the realist commitment of Vaiśeṣika is uncompromising: the cognition 'this-is-in-that' is pramāṇa-grounded, hence its object (the inherence-relation) is real (sat), not mithyā. The disagreement is meta-doctrinal — what counts as ultimate reality — and is not adjudicable within Vaiśeṣika method alone.",
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  },
+  {
+    "id": "jaina.samavaya.anekanta",
+    "school": "jaina",
+    "thinker": "Umāsvāti and the Jaina tradition",
+    "source_text": "Tattvārtha-sūtra and later Jaina engagement with Vaiśeṣika categoriology.",
+    "attestation": "reconstructed",
+    "objection_summary_en": "The Jaina accepts that relations are real but denies that they fit the rigid trichotomy samavāya / saṃyoga / svabhāva. Reality is anekānta — many-sided. The relation between cloth and threads is *neither* purely identical *nor* purely different *nor* a third 'inseparable inherence' as the Vaiśeṣika has it; it is *both* identity and difference under different aspects (naya). The cloth IS the threads (under the dravya-naya, the substance-aspect) AND it is different from any one thread or arrangement (under the paryāya-naya, the mode-aspect). To resolve this into a single eternal samavāya is to flatten the many-sidedness Jaina ontology was built to honour. The Vaiśeṣika's commitment to one-aspect-at-a-time predicates produces categorial puzzles (why is samavāya not a substance? why eternal but inferable only?) that the anekānta view dissolves without postulating a sixth padārtha.",
+    "objection_summary_ml": "ജൈനർ സംബന്ധങ്ങൾ യഥാർത്ഥമാണെന്ന് അംഗീകരിക്കുന്നു — പക്ഷേ സമവായം / സംയോഗം / സ്വഭാവം എന്ന ദൃഢ-ത്രി-വിഭാഗത്തിൽ ഒതുങ്ങുന്നില്ല. യാഥാർത്ഥ്യം അനേകാന്തമാണ് — അനേക-വശങ്ങളുള്ളത്. നൂലുകളും പടവും തമ്മിലുള്ള സംബന്ധം പൂർണ്ണമായ ഏകത്വവുമല്ല, പൂർണ്ണമായ ഭേദവുമല്ല, വൈശേഷിക-സമവായവുമല്ല — അത് വ്യത്യസ്ത നയങ്ങളിൽ (വശങ്ങളിൽ) ഏകത്വവും ഭേദവും ഒരുമിച്ച്. പടം നൂലുകൾ തന്നെയാണ് (ദ്രവ്യ-നയത്തിൽ, ദ്രവ്യ-വശത്തിൽ) ഒപ്പം ഏതെങ്കിലും ഒറ്റ-നൂലിൽ നിന്നോ വിന്യാസത്തിൽ നിന്നോ ഭേദമുള്ളതും (പര്യായ-നയത്തിൽ, പരിണാമ-വശത്തിൽ). ഇതിനെ ഒരൊറ്റ നിത്യ-സമവായമായി ചുരുക്കുന്നത് ജൈന-സിദ്ധാന്തം നിലനിർത്താൻ ശ്രമിച്ച അനേക-വശത്വത്തെ പരന്നതാക്കുന്നു. വൈശേഷിക-ഏക-വശ-സിദ്ധാന്തം ഉൽപ്പാദിപ്പിക്കുന്ന വർഗ്ഗ-ദോഷങ്ങൾ (സമവായം ദ്രവ്യമല്ലെങ്കിൽ എന്താണ്? നിത്യമെങ്കിലും അനുമേയം മാത്രമെങ്കിൽ എങ്ങനെ?) അനേകാന്ത-വീക്ഷണത്തിൽ ആറാം-പദാർത്ഥം കൂടാതെ തന്നെ അലിയുന്നു.",
+    "siddhanta_response_summary_en": null,
+    "approved_by_shastrika": true,
+    "approved_at": "2026-05-16T20:45:00Z"
+  }
+]

@@ -93,7 +93,7 @@ export async function loadPublishedConcepts(
       node.depths.vritti.status,
       node.depths.tika.status,
     ];
-    return statuses.includes(target);
+    return statuses.includes(target) || statuses.includes('published');
   });
 }
 

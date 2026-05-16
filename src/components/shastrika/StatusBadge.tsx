@@ -12,6 +12,7 @@ const STATUS_CLASSES: Record<ContentStatus, string> = {
   under_review_ml: 'bg-amber-100 text-amber-800 border-amber-300',
   published_en: 'bg-emerald-100 text-emerald-800 border-emerald-300',
   published_ml: 'bg-emerald-100 text-emerald-800 border-emerald-300',
+  published: 'bg-emerald-200 text-emerald-900 border-emerald-400',
 };
 
 const STATUS_LABEL: Record<ContentStatus, string> = {
@@ -20,6 +21,7 @@ const STATUS_LABEL: Record<ContentStatus, string> = {
   under_review_ml: 'review·ml',
   published_en: 'pub·en',
   published_ml: 'pub·ml',
+  published: 'pub',
 };
 
 export function StatusBadge({ status }: { status: ContentStatus }) {
