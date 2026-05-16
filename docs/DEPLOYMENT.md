@@ -78,9 +78,16 @@ Adds the pūrvapakṣin API route. Requires a one-time codebase change.
    - Build output directory: `.vercel/output/static`
    - Compatibility flags (Functions tab): add `nodejs_compat`
 3. **Secrets** (Cloudflare Pages → Project → Settings → Environment
-   variables → Encrypt):
-   - `ANTHROPIC_API_KEY` — for the pūrvapakṣin dialogue route. Without
-     this the API returns 503 (the route has a build-time guard).
+   variables → Encrypt). The pūrvapakṣin route is provider-agnostic
+   and works with either; set at least one:
+   - `ANTHROPIC_API_KEY` — uses `claude-sonnet-4-6` by default.
+   - `GEMINI_API_KEY` — uses `gemini-pro-latest` by default (Google's
+     auto-tracking alias for the most recent Gemini Pro release).
+   - Optional `LLM_PROVIDER=anthropic|gemini` to force a specific
+     provider regardless of which keys are present. Auto-selection
+     prefers Anthropic if both are set. Without either key the route
+     returns 503 (a build-time guard prevents the build itself from
+     calling the LLM).
 4. Deploy.
 
 The adapter packages server components and route handlers as

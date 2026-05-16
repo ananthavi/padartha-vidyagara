@@ -1,15 +1,18 @@
 /**
  * Maṅgalācaraṇa — the benedictory header opening the praveśa sequence.
  *
+ * Currently text-only: Devanagari + IAST + a plain English gloss of the
+ * salutation, no audio. An earlier draft carried an <audio> element
+ * pointing at `/audio/mangalacarana.mp3`; that file was never recorded
+ * and the empty <audio> control rendered as a broken control on the
+ * deployed site. Audio is welcome to return later as a separate track
+ * (a śāstrika's recitation, properly attributed); until then the
+ * written maṅgala stands alone.
+ *
  * The Sanskrit text is supplied by the caller (vision Part I commitment 2:
  * no authored Sanskrit beyond the seven padārtha terms). A conservative
- * default is provided so the component renders meaningfully in isolation.
- * The audio source points to public/audio/mangalacarana.mp3, which is out
- * of scope for this track; if the file is missing the <audio> element
- * silently fails its load and renders only as a degraded inert control.
- *
- * Audio behaviour: no autoplay. The learner chooses to listen. Honors the
- * "no interference" commitment (Part I.3) — sound is offered, not imposed.
+ * default — the universally-uncontroversial Vāsudeva salutation — is
+ * provided so the component renders meaningfully in isolation.
  */
 
 import type { FC } from 'react';
@@ -19,18 +22,22 @@ export interface MangalacaranaProps {
   textSa?: string;
   /** IAST transliteration of the same. */
   textIast?: string;
-  /** Path under /public to the audio file. */
-  audioSrc?: string;
+  /** Plain English gloss, shown small under the IAST. */
+  gloss?: string;
+  /** Optional Malayalam gloss in maṇipravāḷam register. */
+  glossMl?: string;
 }
 
 const DEFAULT_SA = 'ॐ नमो भगवते वासुदेवाय';
 const DEFAULT_IAST = 'oṃ namo bhagavate vāsudevāya';
-const DEFAULT_AUDIO = '/audio/mangalacarana.mp3';
+const DEFAULT_GLOSS = 'salutation to the blessed Vāsudeva';
+const DEFAULT_GLOSS_ML = 'ഭഗവാൻ വാസുദേവനു നമസ്കാരം';
 
 export const Mangalacarana: FC<MangalacaranaProps> = ({
   textSa = DEFAULT_SA,
   textIast = DEFAULT_IAST,
-  audioSrc = DEFAULT_AUDIO,
+  gloss = DEFAULT_GLOSS,
+  glossMl = DEFAULT_GLOSS_ML,
 }) => {
   return (
     <section
@@ -44,15 +51,9 @@ export const Mangalacarana: FC<MangalacaranaProps> = ({
         maṅgalācaraṇa
       </h2>
       <p className="sa text-3xl text-ink mb-4 leading-snug">{textSa}</p>
-      <p className="text-sm italic text-ink-muted mb-10">{textIast}</p>
-      <audio
-        controls
-        preload="none"
-        className="mx-auto block w-full max-w-xs opacity-70"
-        aria-label="maṅgalācaraṇa recitation"
-      >
-        <source src={audioSrc} type="audio/mpeg" />
-      </audio>
+      <p className="text-sm italic text-ink-muted mb-2">{textIast}</p>
+      <p className="text-xs text-ink-faint">{gloss}</p>
+      <p className="ml text-xs text-ink-faint mt-1">{glossMl}</p>
     </section>
   );
 };

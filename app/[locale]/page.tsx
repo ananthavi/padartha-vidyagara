@@ -13,6 +13,7 @@
  * The page recedes once the learner has entered.
  */
 
+import Link from 'next/link';
 import Mangalacarana from '@/components/pravesha/Mangalacarana';
 import SevenPadarthasGraph from '@/components/pravesha/SevenPadarthasGraph';
 import AnubandhaCatushtaya from '@/components/pravesha/AnubandhaCatushtaya';
@@ -27,6 +28,23 @@ export default function PraveshaPage({ params }: { params: { locale: string } })
       <SevenPadarthasGraph locale={locale} />
       <AnubandhaCatushtaya locale={locale} />
       <ContemplationPrompts />
+
+      {/*
+        A quiet doorway forward. Not a "next up" rail (vision Part XI
+        forbids that) — a single named link to the first node. The
+        learner moves; the environment offers.
+      */}
+      <nav
+        aria-label={locale === 'ml' ? 'ഗ്രന്ഥത്തിലേക്ക്' : 'into the text'}
+        className="mx-auto mt-16 max-w-prose px-6 text-center"
+      >
+        <Link
+          href={`/${locale}/concept/samavaya`}
+          className="text-sm text-ink-faint underline-offset-4 transition-colors hover:text-ink-muted hover:underline"
+        >
+          {locale === 'ml' ? 'സമവായം →' : 'samavāya →'}
+        </Link>
+      </nav>
     </div>
   );
 }

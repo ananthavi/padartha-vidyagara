@@ -3,7 +3,10 @@
  *
  * The dialogue engine route. Loads approved purvapaksa positions for the
  * named concept, validates the request, builds the system prompt, and
- * streams Claude's response as a sequence of SSE-style JSON events.
+ * streams the chosen LLM's response as a sequence of SSE-style JSON
+ * events. The provider (Anthropic or Gemini) is selected by
+ * `src/lib/llm/selectProvider()` based on env variables; the route is
+ * provider-agnostic.
  *
  * Authority: vision Part VI. Hard constraints enforced here (not just in
  * the system prompt):
@@ -13,12 +16,12 @@
  *   - Any `position_id` reference inside the learner's prior messages
  *     that is NOT in the approved set is stripped before forwarding. We
  *     do not pass through unapproved ids even silently.
- *   - If ANTHROPIC_API_KEY is not set, 503. The build must not call the
- *     LLM; this gate is what guarantees that.
+ *   - If NEITHER ANTHROPIC_API_KEY nor GEMINI_API_KEY is set, 503. The
+ *     build must not call the LLM; this gate is what guarantees that.
  *   - The trailing `[position_id]` tag the model emits is parsed out of
  *     the accumulated text and surfaced to the client as a `meta` event,
  *     so the UI can render a provenance stripe / link without parsing
- *     the model output itself.
+ *     the model output itself. The tag convention is provider-agnostic.
  *
  * Persistence: NONE. Transcripts are not written anywhere by this route
  * — the svadhyaya notebook is a separate track.
@@ -26,7 +29,7 @@
 
 import { z } from 'zod';
 import { loadApprovedPurvapaksa } from '@/lib/content';
-import { stream as streamClaude, isAvailable } from '@/lib/llm/anthropic-client';
+import { selectProvider, isAnyAvailable, availableProviders } from '@/lib/llm';
 import { buildSystemPrompt } from '@/lib/purvapakshin/system-prompt';
 import type { PurvapaksaPosition } from '@/lib/schema';
 
@@ -57,9 +60,23 @@ type ApprovedById = Map<string, PurvapaksaPosition>;
 
 export async function POST(req: Request): Promise<Response> {
   // 1. Gate on env. Build must never reach the LLM.
-  if (!isAvailable()) {
+  if (!isAnyAvailable()) {
     return Response.json(
-      { error: 'ANTHROPIC_API_KEY is not set; live dialogue is unavailable.' },
+      {
+        error:
+          'No LLM provider configured; live dialogue is unavailable. Set ANTHROPIC_API_KEY or GEMINI_API_KEY (and optionally LLM_PROVIDER=anthropic|gemini to choose explicitly).',
+      },
+      { status: 503 },
+    );
+  }
+  const provider = selectProvider();
+  if (!provider) {
+    // selectProvider returns null when LLM_PROVIDER is set explicitly
+    // but that provider's key is missing — distinct from "no key at all".
+    return Response.json(
+      {
+        error: `LLM_PROVIDER is set explicitly but the chosen provider has no API key. Available providers right now: ${availableProviders().join(', ') || 'none'}.`,
+      },
       { status: 503 },
     );
   }
@@ -129,15 +146,15 @@ export async function POST(req: Request): Promise<Response> {
     requestedPositionId: body.requestedPositionId,
   });
 
-  // 8. Translate transcript to Anthropic role pairs. Learner → user,
-  //    purvapakshin/siddhanta → assistant (the model is re-entering its
-  //    own prior dialectic turns).
-  const anthropicMessages = cleanedMessages.map((m) => ({
+  // 8. Translate transcript to provider-neutral user/assistant turns.
+  //    Learner → user, purvapakshin/siddhanta → assistant (the model is
+  //    re-entering its own prior dialectic turns). Both Anthropic and
+  //    Gemini require the first turn to be `user`.
+  const llmMessages = cleanedMessages.map((m) => ({
     role: m.role === 'learner' ? ('user' as const) : ('assistant' as const),
     content: m.text,
   }));
-  // Anthropic requires the first message to be a user turn.
-  if (anthropicMessages[0]?.role !== 'user') {
+  if (llmMessages[0]?.role !== 'user') {
     return Response.json(
       { error: 'The first message must be from the learner.' },
       { status: 400 },
@@ -146,17 +163,20 @@ export async function POST(req: Request): Promise<Response> {
 
   // 9. Stream. We accumulate text to parse the trailing `[position_id]`
   //    tag, but we forward deltas immediately so the UI is responsive.
+  //    The first event is a `provider` notification so the UI can show
+  //    which model is in the seat (purely informational).
   const encoder = new TextEncoder();
   const readable = new ReadableStream<Uint8Array>({
     async start(controller) {
       const send = (obj: unknown) => {
         controller.enqueue(encoder.encode(`data: ${JSON.stringify(obj)}\n\n`));
       };
+      send({ type: 'provider', name: provider.name, model: provider.defaultModel });
       let accumulated = '';
       try {
-        for await (const delta of streamClaude({
+        for await (const delta of provider.stream({
           system,
-          messages: anthropicMessages,
+          messages: llmMessages,
         })) {
           accumulated += delta;
           send({ type: 'delta', text: delta });
