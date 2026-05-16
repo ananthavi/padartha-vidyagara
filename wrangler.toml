@@ -1,0 +1,35 @@
+# Cloudflare Pages config. Used by `wrangler pages` CLI deploys.
+#
+# This config supports two deployment modes:
+#
+# A. Static-only (default, fastest, no API)
+#    - In the Cloudflare Pages dashboard set:
+#        Framework preset:        Next.js (Static HTML Export)
+#        Build command:           STATIC_EXPORT=1 npm run build
+#        Build output directory:  out
+#        Environment variables:   STATIC_EXPORT=1
+#    - This matches the GitHub Pages deployment exactly: praveśa entry +
+#      reading view + visualizations, no API, no authoring console.
+#
+# B. Full SSR with the pūrvapakṣin API (recommended for production)
+#    - Add `@cloudflare/next-on-pages` to devDependencies:
+#        npm install --save-dev @cloudflare/next-on-pages
+#    - In the dashboard set:
+#        Framework preset:        Next.js
+#        Build command:           npx @cloudflare/next-on-pages@latest
+#        Build output directory:  .vercel/output/static
+#        Compatibility flags:     nodejs_compat
+#        Environment variables:   ANTHROPIC_API_KEY (set as secret)
+#    - This deploys server components and the /api/purvapakshin route
+#      as Cloudflare Workers.
+#
+# See docs/DEPLOYMENT.md for full details.
+
+name = "padartha-vidyagara"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Pages-specific. The pages_build_output_dir is what `wrangler pages
+# deploy` reads from. Override with --output-dir on the CLI if your
+# build produces elsewhere.
+pages_build_output_dir = "out"

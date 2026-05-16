@@ -1,0 +1,40 @@
+{
+  "name": "padartha-vidyagara",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A contemplative bilingual web environment for the study of Prashastapada's Padarthadharmasamgraha with Shridhara's Nyayakandali.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run validate:content && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.5.4",
+    "gray-matter": "^4.0.3",
+    "next": "^14.2.15",
+    "next-intl": "^3.20.0",
+    "next-mdx-remote": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.10",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.2.15",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.13",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2"
+  }
+}

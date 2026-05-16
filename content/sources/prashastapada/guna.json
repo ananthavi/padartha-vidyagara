@@ -1,0 +1,602 @@
+[
+  {
+    "id": "pp.guna.46",
+    "text_key": "prashastapada",
+    "locator": "guna.46",
+    "sa_devanagari": "अथ गुणपदार्थनिरूपणम् । रूपादीनां गुणानां सर्वेषां गुणत्वाभिसम्बन्धो द्रव्याश्रितत्वं निर्गुणत्वं निष्क्रियत्वम् ॥ ४६ ॥",
+    "sa_iast": "atha guṇapadārthanirūpaṇam | rūpādīnāṃ guṇānāṃ sarveṣāṃ guṇatvābhisambandho dravyāśritatvaṃ nirguṇatvaṃ niṣkriyatvam || 46 ||",
+    "literal_en": "To the Qualities, Colour and the rest belong the (common) character of belonging to the class 'Quality,' of inhering in substances, of being devoid of qualities, and of being devoid of action.",
+    "ml_draft": {
+      "text": "ഇനി ഗുണം എന്ന പദാർത്ഥത്തിന്റെ നിരൂപണം. രൂപാദികളായ എല്ലാ ഗുണങ്ങൾക്കും പൊതുവായി ഈ സ്വഭാവങ്ങളുണ്ട് — ഗുണത്വം (ഗുണജാതിയോടുള്ള) അഭിസംബന്ധം, ദ്രവ്യത്തെ ആശ്രയിച്ചിരിക്കുക (ദ്രവ്യാശ്രിതത്വം), സ്വയം ഗുണരഹിതമായിരിക്കുക (നിർഗുണത്വം), ക്രിയ ഇല്ലാതിരിക്കുക (നിഷ്ക്രിയത്വം).",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "Now begins the exposition of the category *guṇa* (quality). All qualities — *rūpa* (colour) and the rest — share four common marks: they belong to the class *guṇatva* (quality-ness); they inhere in *dravya* (substance); they themselves carry no further qualities (*nirguṇatva*); and they are without *karma* (action) of their own (*niṣkriyatva*).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.47",
+    "text_key": "prashastapada",
+    "locator": "guna.47",
+    "sa_devanagari": "रूपरसगन्धस्पर्शपरत्वापरत्वगुरुत्वद्रवत्वस्नेहवेगा मूर्तगुणाः ॥ ४७ ॥",
+    "sa_iast": "rūparasagandhasparśaparatvāparatvagurutvadravatvasnehavegā mūrtaguṇāḥ || 47 ||",
+    "literal_en": "Colour, Taste, Smell, Touch, Priority, Posteriority, Gravity, Fluidity and Viscidity, and Speed are qualities that belong to corporeal objects.",
+    "ml_draft": {
+      "text": "രൂപം, രസം, ഗന്ധം, സ്പർശം, പരത്വം (മുൻമയ്), അപരത്വം (പിൻമയ്), ഗുരുത്വം (ഭാരം), ദ്രവത്വം, സ്നേഹം (ഒട്ടൽ), വേഗം — ഈ പത്തു ഗുണങ്ങൾ മൂർത്തദ്രവ്യങ്ങളിലെ (മൂർത്തമായ ദ്രവ്യങ്ങളിലെ) ഗുണങ്ങളാകുന്നു — അതായത് മൂർത്തഗുണങ്ങൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Rūpa* (colour), *rasa* (taste), *gandha* (smell), *sparśa* (touch), *paratva* (priority), *aparatva* (posteriority), *gurutva* (gravity), *dravatva* (fluidity), *sneha* (viscidity) and *vega* (speed) are the *mūrta-guṇa*s — qualities that inhere only in *mūrta* (corporeal, limited-extension) substances.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.48",
+    "text_key": "prashastapada",
+    "locator": "guna.48",
+    "sa_devanagari": "बुद्धिसुखदुःखेच्छाद्वेषप्रयत्नधर्माधर्मभावनाशब्दा अमूर्तगुणाः ॥ ४८ ॥",
+    "sa_iast": "buddhisukhaduḥkhecchādveṣaprayatnadharmādharmabhāvanāśabdā amūrtaguṇāḥ || 48 ||",
+    "literal_en": "Intellect, Pleasure, Pain, Desire, Aversion, Effort, Virtue, Vice, Faculty and Sound belong to immaterial things.",
+    "ml_draft": {
+      "text": "ബുദ്ധി, സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം, ധർമ്മം, അധർമ്മം, ഭാവന (സംസ്കാരത്തിന്റെ ഒരു വകഭേദം), ശബ്ദം — ഈ പത്തു ഗുണങ്ങൾ അമൂർത്തഗുണങ്ങൾ. ഇവ മൂർത്തമല്ലാത്ത ദ്രവ്യങ്ങളിൽ (ആത്മാവിലും ആകാശത്തിലും) ആശ്രയിച്ചിരിക്കുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Buddhi* (cognition), *sukha* (pleasure), *duḥkha* (pain), *icchā* (desire), *dveṣa* (aversion), *prayatna* (effort), *dharma* (merit), *adharma* (demerit), *bhāvanā* (the dispositional faculty of memory-trace), and *śabda* (sound) are the *amūrta-guṇa*s — qualities that inhere only in *amūrta* (incorporeal) substances, that is, in *ātman* and *ākāśa*.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.49",
+    "text_key": "prashastapada",
+    "locator": "guna.49",
+    "sa_devanagari": "संख्यापरिमाणपृथक्त्वसम्योगविभागा उभयगुणाः ॥ ४९ ॥",
+    "sa_iast": "saṃkhyāparimāṇapṛthaktvasamyogavibhāgā ubhayaguṇāḥ || 49 ||",
+    "literal_en": "Number, Dimension, Separateness, Conjunction and Disjunction belong to both.",
+    "ml_draft": {
+      "text": "സംഖ്യ, പരിമാണം, പൃഥക്ത്വം (വേർമ), സംയോഗം, വിഭാഗം — ഈ അഞ്ചു ഗുണങ്ങൾ ഉഭയഗുണങ്ങൾ — അതായത് മൂർത്തവും അമൂർത്തവുമായ ദ്രവ്യങ്ങളിൽ ഇരുകൂട്ടത്തിലും വർത്തിക്കുന്നവ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃkhyā* (number), *parimāṇa* (dimension/magnitude), *pṛthaktva* (separateness), *saṃyoga* (conjunction) and *vibhāga* (disjunction) are *ubhaya-guṇa*s — qualities found in both kinds of substance, *mūrta* and *amūrta* alike.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.50",
+    "text_key": "prashastapada",
+    "locator": "guna.50",
+    "sa_devanagari": "संयोगविभागद्वित्वद्विपृथक्त्वादयोऽनेकाश्रिताः ॥ ५० ॥",
+    "sa_iast": "saṃyogavibhāgadvitvadvipṛthaktvādayo'nekāśritāḥ || 50 ||",
+    "literal_en": "Conjunction, Disjunction, Duality, Dual Separateness and the rest inhere in more than one object.",
+    "ml_draft": {
+      "text": "സംയോഗം, വിഭാഗം, ദ്വിത്വം (രണ്ടെണ്ണം എന്നുള്ള സംഖ്യ), ദ്വിപൃഥക്ത്വം (ഇരുകൂട്ടത്തിന്റെ വേർമ) — ഇത്യാദി ഗുണങ്ങൾ ഒറ്റയല്ല, പല ദ്രവ്യങ്ങളിൽ ആശ്രയിച്ചു വർത്തിക്കുന്നവ — അനേകാശ്രിതങ്ങൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃyoga*, *vibhāga*, *dvitva* (duality, the number 'two'), *dvi-pṛthaktva* (dual separateness) and the like are *anekāśrita* — they require more than one substrate; a single substance alone cannot bear them.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.51",
+    "text_key": "prashastapada",
+    "locator": "guna.51",
+    "sa_devanagari": "शेषास्त्वेकैकद्रव्यवृत्तयः ॥ ५१ ॥",
+    "sa_iast": "śeṣāstvekaikadravyavṛttayaḥ || 51 ||",
+    "literal_en": "The rest inhere in single [substances].",
+    "ml_draft": {
+      "text": "ശേഷിച്ച ഗുണങ്ങളെല്ലാം ഒറ്റ ഒറ്റ ദ്രവ്യത്തിൽ വർത്തിക്കുന്നവ — ഏകൈകദ്രവ്യവൃത്തികൾ. ഉദാഹരണത്തിന്, ഒരു രൂപം ഒരേ ദ്രവ്യത്തിൽത്തന്നെ; സംയോഗത്തെപ്പോലെ പല ദ്രവ്യങ്ങളിലല്ല വർത്തിക്കുന്നത്.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The remaining qualities are *ekaika-dravya-vṛtti* — each inheres in just one substance at a time. A single *rūpa*, for instance, belongs to its one substrate, unlike *saṃyoga* which spans two.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.52",
+    "text_key": "prashastapada",
+    "locator": "guna.52",
+    "sa_devanagari": "रूपरसगन्धस्पर्शस्नेहसांसिद्धिकद्रवत्वबुद्धिसुखदुःखेच्छाद्वेषप्रयत्नधर्माधर्मभावनाशब्दा वैशेषिकगुणाः ॥ ५२ ॥",
+    "sa_iast": "rūparasagandhasparśasnehasāṃsiddhikadravatvabuddhisukhaduḥkhecchādveṣaprayatnadharmādharmabhāvanāśabdā vaiśeṣikaguṇāḥ || 52 ||",
+    "literal_en": "Colour, Taste, Smell, Touch, Viscidity, Natural Fluidity, Intellect, Pleasure, Pain, Desire, Aversion, Effort, Virtue, Vice, Faculty and Sound are the 'Vaiśeṣika' ('specific') qualities.",
+    "ml_draft": {
+      "text": "രൂപം, രസം, ഗന്ധം, സ്പർശം, സ്നേഹം, സാംസിദ്ധികദ്രവത്വം (സ്വാഭാവികമായ ദ്രവത്വം — ഉദാ. വെള്ളത്തിന്റേത്), ബുദ്ധി, സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം, ധർമ്മം, അധർമ്മം, ഭാവന, ശബ്ദം — ഈ പതിനാറു ഗുണങ്ങൾ വൈശേഷികഗുണങ്ങൾ — അതാത് ദ്രവ്യത്തെ വിശേഷിച്ചു തിരിച്ചറിയിക്കുന്നവ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Rūpa*, *rasa*, *gandha*, *sparśa*, *sneha* (viscidity), *sāṃsiddhika-dravatva* (natural, intrinsic fluidity, as in water), *buddhi*, *sukha*, *duḥkha*, *icchā*, *dveṣa*, *prayatna*, *dharma*, *adharma*, *bhāvanā* and *śabda* are the *vaiśeṣika-guṇa*s — 'specifying' qualities, because they single out the substance they belong to from others.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.53",
+    "text_key": "prashastapada",
+    "locator": "guna.53",
+    "sa_devanagari": "संख्यापरिमाणपृथक्त्वसम्योगविभागपरत्वापरत्वगुरुत्वनैमितिकद्रवत्ववेगाः सामान्यगुणाः ॥ ५३ ॥",
+    "sa_iast": "saṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvagurutvanaimitikadravatvavegāḥ sāmānyaguṇāḥ || 53 ||",
+    "literal_en": "Number, Dimension, Separateness, Conjunction, Disjunction, Priority, Posteriority, Gravity, Caused Fluidity and Speed are the 'Sāmānya,' ('Generic') Qualities.",
+    "ml_draft": {
+      "text": "സംഖ്യ, പരിമാണം, പൃഥക്ത്വം, സംയോഗം, വിഭാഗം, പരത്വം, അപരത്വം, ഗുരുത്വം, നൈമിത്തികദ്രവത്വം (കാരണത്താൽ ഉണ്ടാകുന്ന ദ്രവത്വം — ഉദാ. ഉരുകിയ നെയ്യിന്റേത്), വേഗം — ഈ പത്തു ഗുണങ്ങൾ സാമാന്യഗുണങ്ങൾ; ദ്രവ്യങ്ങളെ പരസ്പരം വേർതിരിക്കാതെ പൊതുവായി ലക്ഷണപ്പെടുത്തുന്നവ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃkhyā*, *parimāṇa*, *pṛthaktva*, *saṃyoga*, *vibhāga*, *paratva*, *aparatva*, *gurutva*, *naimittika-dravatva* (caused fluidity, as in melted ghee — distinct from water's natural fluidity), and *vega* are the *sāmānya-guṇa*s — 'generic' qualities, which do not single out their substrate but characterise it in common with others.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.54",
+    "text_key": "prashastapada",
+    "locator": "guna.54",
+    "sa_devanagari": "शब्दस्पर्शरूपरसगन्धा बाह्यैकैकेन्द्रियग्राह्याः ॥ ५४ ॥",
+    "sa_iast": "śabdasparśarūparasagandhā bāhyaikaikendriyagrāhyāḥ || 54 ||",
+    "literal_en": "Sound, Touch, Colour, Taste and Smell are each perceptible by each one of the external sense-organs.",
+    "ml_draft": {
+      "text": "ശബ്ദം, സ്പർശം, രൂപം, രസം, ഗന്ധം — ഇവ ഓരോന്നും ബാഹ്യങ്ങളായ ഇന്ദ്രിയങ്ങളിൽ ഓരോന്നിനാൽ പ്രത്യേകം പ്രത്യേകം ഗ്രഹിക്കപ്പെടുന്നു: ശബ്ദം ശ്രോത്രംകൊണ്ടും, സ്പർശം ത്വക്കുകൊണ്ടും, രൂപം ചക്ഷുസ്സുകൊണ്ടും, രസം ജിഹ്വകൊണ്ടും, ഗന്ധം ഘ്രാണംകൊണ്ടും.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Śabda*, *sparśa*, *rūpa*, *rasa* and *gandha* are *bāhya-ekaika-indriya-grāhya*: each is grasped by one external sense-organ alone — sound by hearing, touch by the skin, colour by the eye, taste by the tongue, smell by the nose.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.55",
+    "text_key": "prashastapada",
+    "locator": "guna.55",
+    "sa_devanagari": "संख्यापरिमाणपृथक्त्वसम्योगविभागपरत्वापरत्वद्रवत्वस्नेहवेगा द्वीन्द्रियग्राह्याः ॥ ५५ ॥",
+    "sa_iast": "saṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvadravatvasnehavegā dvīndriyagrāhyāḥ || 55 ||",
+    "literal_en": "Number, Dimension, Separateness, Conjunction, Disjunction, Priority, Posteriority, Fluidity, Viscidity and Speed are each perceptible by two sense-organs.",
+    "ml_draft": {
+      "text": "സംഖ്യ, പരിമാണം, പൃഥക്ത്വം, സംയോഗം, വിഭാഗം, പരത്വം, അപരത്വം, ദ്രവത്വം, സ്നേഹം, വേഗം — ഈ പത്തു ഗുണങ്ങൾ രണ്ടു ഇന്ദ്രിയങ്ങളാൽ ഗ്രഹിക്കപ്പെടുന്നവ: ചക്ഷുസ്സിനാലും ത്വക്കിനാലും.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃkhyā*, *parimāṇa*, *pṛthaktva*, *saṃyoga*, *vibhāga*, *paratva*, *aparatva*, *dravatva*, *sneha* and *vega* are *dvī-indriya-grāhya* — each is grasped by two sense-organs, namely sight and touch.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.56",
+    "text_key": "prashastapada",
+    "locator": "guna.56",
+    "sa_devanagari": "बुद्धिसुखदुःखेच्छाद्वेषप्रयत्नास्त्वन्तःकरणग्राह्याः ॥ ५६ ॥",
+    "sa_iast": "buddhisukhaduḥkhecchādveṣaprayatnāstvantaḥkaraṇagrāhyāḥ || 56 ||",
+    "literal_en": "Intellect, Pleasure, Pain, Desire, Aversion, Effort are perceptible by the Internal Organ.",
+    "ml_draft": {
+      "text": "ബുദ്ധി, സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം — ഈ ആറു ഗുണങ്ങൾ അന്തഃകരണത്താൽ (മനസ്സിനാൽ — ആന്തരേന്ദ്രിയത്താൽ) ഗ്രഹിക്കപ്പെടുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Buddhi*, *sukha*, *duḥkha*, *icchā*, *dveṣa* and *prayatna* are *antaḥkaraṇa-grāhya* — apprehended by the internal organ, *manas*, not by any outer sense.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.57",
+    "text_key": "prashastapada",
+    "locator": "guna.57",
+    "sa_devanagari": "गुरुत्वधर्माधर्मभावना ह्यतीन्द्रियाः ॥ ५७ ॥",
+    "sa_iast": "gurutvadharmādharmabhāvanā hyatīndriyāḥ || 57 ||",
+    "literal_en": "Gravity, Virtue, Vice and Faculty are beyond the sense-organs.",
+    "ml_draft": {
+      "text": "ഗുരുത്വം, ധർമ്മം, അധർമ്മം, ഭാവന — ഈ നാലു ഗുണങ്ങൾ അതീന്ദ്രിയങ്ങൾ; ഇന്ദ്രിയങ്ങൾകൊണ്ടു നേരിട്ടു ഗ്രഹിക്കാൻ കഴിയാത്തവ, അനുമാനത്താൽ മാത്രം അറിയപ്പെടുന്നവ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Gurutva*, *dharma*, *adharma* and *bhāvanā* are *atīndriya* — beyond the reach of any sense-organ; they are known only through *anumāna* (inference).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.58",
+    "text_key": "prashastapada",
+    "locator": "guna.58",
+    "sa_devanagari": "अपाकजरूपरसगन्धस्पर्शपरिमाणैकत्वैकपृथक्त्वगुरुत्वद्रवत्वस्नेहवेगाः कारणगुणपूर्वकाः ॥ ५८ ॥",
+    "sa_iast": "apākajarūparasagandhasparśaparimāṇaikatvaikapṛthaktvagurutvadravatvasnehavegāḥ kāraṇaguṇapūrvakāḥ || 58 ||",
+    "literal_en": "The Apākaja Colour, Taste, Smell, Touch, Dimension, Singleness, Single Separateness, Gravity, Fluidity, Viscidity and Speed are preceded (or originated) by (like) qualities in the cause (of the thing to which they belong).",
+    "ml_draft": {
+      "text": "അപാകജമായ (പാകംകൊണ്ടല്ലാത്ത) രൂപം, രസം, ഗന്ധം, സ്പർശം, പരിമാണം, ഏകത്വം (ഒറ്റ എന്ന സംഖ്യ), ഏകപൃഥക്ത്വം (ഒറ്റയുടെ വേർമ), ഗുരുത്വം, ദ്രവത്വം, സ്നേഹം, വേഗം — ഈ ഗുണങ്ങൾ കാരണത്തിലെ (തനക്കു സദൃശമായ) ഗുണങ്ങളിൽനിന്ന് ഉൽപാദിക്കപ്പെടുന്നു — കാരണഗുണപൂർവ്വകങ്ങൾ. ഉദാ. തന്തുവിന്റെ നിറം പടത്തിന്റെ നിറത്തിനു കാരണം.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The *apākaja* (not-produced-by-cooking) *rūpa*, *rasa*, *gandha*, *sparśa*, *parimāṇa*, *ekatva* (singleness), *eka-pṛthaktva* (single separateness), *gurutva*, *dravatva*, *sneha* and *vega* are *kāraṇa-guṇa-pūrvaka* — they arise from like qualities already present in the material cause; the colour of the cloth, for example, traces back to the colour of its threads.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.59",
+    "text_key": "prashastapada",
+    "locator": "guna.59",
+    "sa_devanagari": "बुद्धिसुखदुह्खेच्छाद्वेषप्रयत्नधर्माधर्मभावनाशब्दा अकारणगुणपूर्वकाः ॥ ५९ ॥",
+    "sa_iast": "buddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanāśabdā akāraṇaguṇapūrvakāḥ || 59 ||",
+    "literal_en": "Intellect, Pleasure, Pain, Desire, Aversion, Effort, Virtue, Vice, Faculty and Sound are not preceded by (do not originate from) like qualities in the cause.",
+    "ml_draft": {
+      "text": "ബുദ്ധി, സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം, ധർമ്മം, അധർമ്മം, ഭാവന, ശബ്ദം — ഈ ഗുണങ്ങൾ കാരണത്തിലെ സദൃശമായ ഗുണങ്ങളിൽനിന്നു ജനിക്കുന്നില്ല — അകാരണഗുണപൂർവ്വകങ്ങൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Buddhi*, *sukha*, *duḥkha*, *icchā*, *dveṣa*, *prayatna*, *dharma*, *adharma*, *bhāvanā* and *śabda* are *akāraṇa-guṇa-pūrvaka* — they do not arise from any like quality already present in their cause; their origination is otherwise.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.60",
+    "text_key": "prashastapada",
+    "locator": "guna.60",
+    "sa_devanagari": "बुद्धिसुखदुह्खेच्छाद्वेषप्रयत्नधर्माधर्मभावनाशब्दतूलपरिमाणोत्तरसम्योगनैमित्तिकद्रवत्वपरत्वापरत्वापाकजाः सम्योगजाः ॥ ६० ॥",
+    "sa_iast": "buddhisukhaduhkhecchādveṣaprayatnadharmādharmabhāvanāśabdatūlaparimāṇottarasamyoganaimittikadravatvaparatvāparatvāpākajāḥ samyogajāḥ || 60 ||",
+    "literal_en": "Intellect, Pleasure, Pain, Desire, Aversion, Effort, Virtue, Vice, Faculty, Sound, Aggregate-dimension, Secondary Conjunction, Caused Fluidity, Priority and Posteriority are not produced by cooking; they are produced by Conjunction.",
+    "ml_draft": {
+      "text": "ബുദ്ധി, സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം, ധർമ്മം, അധർമ്മം, ഭാവന, ശബ്ദം, തൂലപരിമാണം (സമൂഹപരിമാണം), ഉത്തരസംയോഗം, നൈമിത്തികദ്രവത്വം, പരത്വം, അപരത്വം — ഇവയെല്ലാം പാകത്താൽ (തേജസ്സിന്റെ ചൂടാൽ) ജനിക്കുന്നതല്ല, സംയോഗത്താൽ ജനിക്കുന്നവ — സംയോഗജങ്ങൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Buddhi*, *sukha*, *duḥkha*, *icchā*, *dveṣa*, *prayatna*, *dharma*, *adharma*, *bhāvanā*, *śabda*, *tūla-parimāṇa* (aggregate dimension), secondary *saṃyoga*, *naimittika-dravatva*, *paratva* and *aparatva* are *apākaja* (not produced by *pāka*, the cooking-action of heat) — they arise instead from *saṃyoga*, conjunction.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.61",
+    "text_key": "prashastapada",
+    "locator": "guna.61",
+    "sa_devanagari": "सम्योगविभागवेगाः कर्मजाः ॥ ६१ ॥",
+    "sa_iast": "samyogavibhāgavegāḥ karmajāḥ || 61 ||",
+    "literal_en": "Conjunction, Disjunction and Speed are produced by actions.",
+    "ml_draft": {
+      "text": "സംയോഗം, വിഭാഗം, വേഗം — ഈ മൂന്നു ഗുണങ്ങൾ കർമ്മത്താൽ (ക്രിയയാൽ) ഉൽപാദിക്കപ്പെടുന്നു — കർമ്മജങ്ങൾ. പ്രാഥമികമായ സംയോഗവും വിഭാഗവും കർമ്മത്തിൽനിന്നു ജനിക്കുന്നു; തുടർന്നുള്ള സംയോഗങ്ങൾ മുൻ‌സംയോഗത്തിന്റെ ഫലങ്ങളാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃyoga*, *vibhāga* and *vega* are *karma-ja* — born of *karma* (motion/action). The first, originating conjunction and disjunction arise from action; subsequent conjunctions are then effects of previous conjunctions.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.62",
+    "text_key": "prashastapada",
+    "locator": "guna.62",
+    "sa_devanagari": "शब्दोत्तरविभागौ विभागजौ ॥ ६२ ॥",
+    "sa_iast": "śabdottaravibhāgau vibhāgajau || 62 ||",
+    "literal_en": "Sound and Secondary Disjunction are produced by Disjunction.",
+    "ml_draft": {
+      "text": "ശബ്ദവും, ഉത്തരവിഭാഗവും (തുടർന്നുണ്ടാകുന്ന വിഭാഗവും) — ഈ രണ്ടും വിഭാഗത്തിൽനിന്നു ജനിക്കുന്നു — വിഭാഗജങ്ങൾ. (ആദ്യശബ്ദം സംയോഗത്താലും വിഭാഗത്താലും ജനിക്കാം; എന്നാൽ ഉത്തരവിഭാഗം വിഭാഗത്താൽ മാത്രമേ ജനിക്കൂ.)",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Śabda* and secondary *vibhāga* are *vibhāga-ja* — produced by *vibhāga*, disjunction. (The first *śabda* may issue from *saṃyoga* as well as *vibhāga*; secondary disjunction arises from disjunction alone.)",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.63",
+    "text_key": "prashastapada",
+    "locator": "guna.63",
+    "sa_devanagari": "परत्वापरत्वद्वित्वद्विपृथक्त्वादयो बुद्ध्यपेक्षाः ॥ ६३ ॥",
+    "sa_iast": "paratvāparatvadvitvadvipṛthaktvādayo buddhyapekṣāḥ || 63 ||",
+    "literal_en": "Priority, Posteriority, Duality, Dual Separateness, &c. are dependent upon the Intellect.",
+    "ml_draft": {
+      "text": "പരത്വം, അപരത്വം, ദ്വിത്വം, ദ്വിപൃഥക്ത്വം — ഇത്യാദി ഗുണങ്ങൾ ബുദ്ധിയെ ആശ്രയിച്ചാണു സിദ്ധിക്കുന്നത് — ബുദ്ധ്യപേക്ഷങ്ങൾ. (ഉദാ. 'രണ്ടെണ്ണം' എന്നതു ഒറ്റയൊറ്റയായ വസ്തുക്കളിൽ കണ്ടു ബുദ്ധി ഒന്നിച്ചു സങ്കല്പിക്കുമ്പോഴാണ് ഉണ്ടാകുന്നത്.)",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Paratva*, *aparatva*, *dvitva*, *dvi-pṛthaktva* and the rest are *buddhy-apekṣa* — they depend on *buddhi*: duality, for instance, arises only when intellect surveys two individual substances together and groups them as 'two'.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.64",
+    "text_key": "prashastapada",
+    "locator": "guna.64",
+    "sa_devanagari": "रूपरसगन्धानुष्णस्पर्शशब्दपरिमाणैकत्वैकपृथक्त्वस्नेहाः समानजात्यारम्भकाः ॥ ६४ ॥",
+    "sa_iast": "rūparasagandhānuṣṇasparśaśabdaparimāṇaikatvaikapṛthaktvasnehāḥ samānajātyārambhakāḥ || 64 ||",
+    "literal_en": "Colour, Taste, Smell, Non-hot Touch, Sound, Dimension, Singleness, Single Separateness and Viscidity are productive of their likes.",
+    "ml_draft": {
+      "text": "രൂപം, രസം, ഗന്ധം, അനുഷ്ണസ്പർശം (ചൂടല്ലാത്ത സ്പർശം), ശബ്ദം, പരിമാണം, ഏകത്വം, ഏകപൃഥക്ത്വം, സ്നേഹം — ഈ ഗുണങ്ങൾ തങ്ങളുടെ സ്വജാതീയങ്ങളെ — സദൃശമായ ഗുണങ്ങളെ — ഉത്പാദിപ്പിക്കുന്നു — സമാനജാത്യാരംഭകങ്ങൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Rūpa*, *rasa*, *gandha*, *anuṣṇa-sparśa* (non-hot touch), *śabda*, *parimāṇa*, *ekatva*, *eka-pṛthaktva* and *sneha* are *samāna-jātīya-ārambhaka* — they bring about effects of their own kind, qualities similar to themselves.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.65",
+    "text_key": "prashastapada",
+    "locator": "guna.65",
+    "sa_devanagari": "सुखदूःखेच्छाद्वेषप्रयत्नाश्चासमानजात्यारम्भकाः ॥ ६५ ॥",
+    "sa_iast": "sukhadūḥkhecchādveṣaprayatnāścāsamānajātyārambhakāḥ || 65 ||",
+    "literal_en": "Pleasure, Pain, Desire, Aversion and Effort are productive of their unlikes.",
+    "ml_draft": {
+      "text": "സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം — ഇവ തങ്ങളിൽ നിന്നു വിജാതീയങ്ങളെ ഉൽപാദിപ്പിക്കുന്നു — അസമാനജാത്യാരംഭകങ്ങൾ: സുഖത്തിൽനിന്നു ഇച്ഛ, ദുഃഖത്തിൽനിന്നു ദ്വേഷം, ഇച്ഛാദ്വേഷങ്ങളിൽനിന്നു പ്രയത്നം.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Sukha*, *duḥkha*, *icchā*, *dveṣa* and *prayatna* are *asamāna-jātīya-ārambhaka* — they bring forth effects of an unlike kind: pleasure begets desire, pain begets aversion, and desire-and-aversion together beget effort.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.66",
+    "text_key": "prashastapada",
+    "locator": "guna.66",
+    "sa_devanagari": "संयोगविभागसंख्यागुरुत्वद्रवत्वोष्णस्पर्शज्ञानधर्माधर्मसंस्काराः समानासमानजात्यारम्भकाः ॥ ६६ ॥",
+    "sa_iast": "saṃyogavibhāgasaṃkhyāgurutvadravatvoṣṇasparśajñānadharmādharmasaṃskārāḥ samānāsamānajātyārambhakāḥ || 66 ||",
+    "literal_en": "Conjunction, Disjunction, Number, Gravity, Fluidity, Hot Touch, Knowledge, Virtue, Vice and Faculty are productive of likes as well as unlikes.",
+    "ml_draft": {
+      "text": "സംയോഗം, വിഭാഗം, സംഖ്യ, ഗുരുത്വം, ദ്രവത്വം, ഉഷ്ണസ്പർശം (ചൂടുള്ള സ്പർശം), ജ്ഞാനം, ധർമ്മം, അധർമ്മം, സംസ്കാരം — ഈ ഗുണങ്ങൾ സദൃശങ്ങളെയും വിജാതീയങ്ങളെയും — ഇരുകൂട്ടത്തെയും — ഉൽപാദിപ്പിക്കുന്നു — സമാനാസമാനജാത്യാരംഭകങ്ങൾ. ഉദാ. സംയോഗത്തിൽനിന്ന് ഉത്തരസംയോഗവും, ഇരുപാളിയുടെ പരിമാണവും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃyoga*, *vibhāga*, *saṃkhyā*, *gurutva*, *dravatva*, *uṣṇa-sparśa* (hot touch), *jñāna*, *dharma*, *adharma* and *saṃskāra* are *samāna-asamāna-jātīya-ārambhaka* — they produce effects of both like and unlike kind: *saṃyoga*, for instance, yields a like quality (secondary conjunction) and also an unlike one (the dimension of the joined pair).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.69",
+    "text_key": "prashastapada",
+    "locator": "guna.69",
+    "sa_devanagari": "रूपरसगन्धस्पर्शपरिमाणस्नेहप्रयत्नाः परत्रारम्भकाः ॥ ६९ ॥",
+    "sa_iast": "rūparasagandhasparśaparimāṇasnehaprayatnāḥ paratrārambhakāḥ || 69 ||",
+    "literal_en": "Colour, Taste, Smell, Touch, Dimension, Viscidity, Effort, are productive (of qualities) in other things.",
+    "ml_draft": {
+      "text": "രൂപം, രസം, ഗന്ധം, സ്പർശം, പരിമാണം, സ്നേഹം, പ്രയത്നം — ഈ ഗുണങ്ങൾ തങ്ങൾ വർത്തിക്കുന്ന ദ്രവ്യത്തിലല്ല, മറ്റു ദ്രവ്യങ്ങളിൽ — അവയവങ്ങളിൽ ഇരുന്നു അവയവിയിൽ — ഗുണങ്ങളെ ഉത്പാദിപ്പിക്കുന്നു — പരത്രാരംഭകങ്ങൾ. ഉദാ. ആത്മാവിലെ പ്രയത്നം ശരീരക്രിയയ്ക്കു കാരണം.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Rūpa*, *rasa*, *gandha*, *sparśa*, *parimāṇa*, *sneha* and *prayatna* are *paratra-ārambhaka* — they originate qualities not in their own substrate but elsewhere: qualities of the parts produce qualities in the whole; *prayatna* in the *ātman* causes movement in the body.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.70",
+    "text_key": "prashastapada",
+    "locator": "guna.70",
+    "sa_devanagari": "संयोगविभागसंख्यैकपृथक्त्वगुरुत्वद्रवत्ववेगधर्माधर्मास्तूभयत्रारम्भकाः ॥ ७० ॥",
+    "sa_iast": "saṃyogavibhāgasaṃkhyaikapṛthaktvagurutvadravatvavegadharmādharmāstūbhayatrārambhakāḥ || 70 ||",
+    "literal_en": "Conjunction, Disjunction, Number, Single Location, Gravity, Fluidity, Speed, Virtue and Vice are productive (of qualities) in both.",
+    "ml_draft": {
+      "text": "സംയോഗം, വിഭാഗം, സംഖ്യ, ഏകപൃഥക്ത്വം, ഗുരുത്വം, ദ്രവത്വം, വേഗം, ധർമ്മം, അധർമ്മം — ഈ ഗുണങ്ങൾ സ്വാശ്രയത്തിലും (തങ്ങൾ വർത്തിക്കുന്ന ദ്രവ്യത്തിലും), പരാശ്രയത്തിലും (മറ്റു ദ്രവ്യങ്ങളിലും) — രണ്ടു ദിക്കിലും — ഗുണങ്ങളെ ഉത്പാദിപ്പിക്കുന്നു — ഉഭയത്രാരംഭകങ്ങൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Saṃyoga*, *vibhāga*, *saṃkhyā*, *eka-pṛthaktva*, *gurutva*, *dravatva*, *vega*, *dharma* and *adharma* are *ubhayatra-ārambhaka* — they originate qualities both in their own substrate and in another.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.71",
+    "text_key": "prashastapada",
+    "locator": "guna.71",
+    "sa_devanagari": "गुरुत्वद्रवत्ववेगप्रयत्नधर्माधर्मसम्योगविशेषाः क्रियाहेतवः ॥ ७१ ॥",
+    "sa_iast": "gurutvadravatvavegaprayatnadharmādharmasamyogaviśeṣāḥ kriyāhetavaḥ || 71 ||",
+    "literal_en": "Gravity, Fluidity, Speed, Effort, Virtue, Vice and Conjunction of a particular kind, are the causes of actions.",
+    "ml_draft": {
+      "text": "ഗുരുത്വം, ദ്രവത്വം, വേഗം, പ്രയത്നം, ധർമ്മം, അധർമ്മം, വിശേഷമായ ഒരുതരം സംയോഗം — ഇവ ക്രിയയ്ക്കു (കർമ്മത്തിനു) ഹേതുക്കളാകുന്നു — ക്രിയാഹേതുക്കൾ. ഉദാ. ഗുരുത്വം പതനത്തിനു, ദ്രവത്വം ഒഴുകലിനു, വേഗം അമ്പിന്റെ തുടർച്ചയായ ഗതിക്കു, പ്രയത്നം ശരീരചലനത്തിനു കാരണം.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Gurutva*, *dravatva*, *vega*, *prayatna*, *dharma*, *adharma* and *saṃyoga-viśeṣa* (a particular kind of conjunction) are *kriyā-hetu* — causes of *karma* (motion): *gurutva* causes falling, *dravatva* flowing, *vega* the arrow's continued flight, *prayatna* the body's movements.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.guna.72",
+    "text_key": "prashastapada",
+    "locator": "guna.72",
+    "sa_devanagari": "रूपरसगन्धानुष्णस्पर्शसंख्यापरिमाणैकपृथक्त्वसनेहशब्दानामसमवायिकारणत्वम् ॥ ७२ ॥",
+    "sa_iast": "rūparasagandhānuṣṇasparśasaṃkhyāparimāṇaikapṛthaktvasanehaśabdānāmasamavāyikāraṇatvam || 72 ||",
+    "literal_en": "Colour, Taste, Smell, non-hot Touch, Number, Dimension, Single Separateness, Viscidity, and Sound are non-material causes.",
+    "ml_draft": {
+      "text": "രൂപം, രസം, ഗന്ധം, അനുഷ്ണസ്പർശം, സംഖ്യ, പരിമാണം, ഏകപൃഥക്ത്വം, സ്നേഹം, ശബ്ദം — ഈ ഗുണങ്ങൾക്കു അസമവായികാരണത്വം (ഉപാദാനത്തിലല്ലാത്ത, സഹായകമായ കാരണത്വം) ഉണ്ട്. അവ സമവായികാരണത്തിലല്ല, അതിന്റെ ആശ്രയത്തിൽ വർത്തിച്ചു കാര്യത്തിനു ഹേതുവാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Rūpa*, *rasa*, *gandha*, *anuṣṇa-sparśa*, *saṃkhyā*, *parimāṇa*, *eka-pṛthaktva*, *sneha* and *śabda* possess *asamavāyi-kāraṇatva* — the status of being non-inherent (auxiliary) causes; they assist their substrate's effect without themselves being the material substrate.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:22Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  }
+]

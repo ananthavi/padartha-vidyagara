@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pp.introduction.1",
+    "text_key": "prashastapada",
+    "locator": "introduction.1",
+    "sa_devanagari": "प्रशस्तपादभाष्यम् । प्रणम्य हेतुम् ईश्वरम् मुनिम् कणादम् अन्वतः । पदार्थधर्मसंग्रहः प्रवक्ष्यते महोदयः ॥",
+    "sa_iast": "praśastapādabhāṣyam | praṇamya hetum īśvaram munim kaṇādam anvataḥ | padārthadharmasaṃgrahaḥ pravakṣyate mahodayaḥ ||",
+    "literal_en": "Having bowed to Īśvara, the Cause, and then to the sage Kaṇāda, I am going to describe the nature of things (or, compose the work called ‘Padārthadharmasaṅgraha.’) leading to the best of results.",
+    "ml_draft": {
+      "text": "പ്രശസ്തപാദഭാഷ്യം. ഹേതുവായ ഈശ്വരനെയും അനന്തരം മുനിയായ കണാദനെയും പ്രണാമം ചെയ്തിട്ട്, മഹോദയ(ഫലപ്രദ)മായ പദാർത്ഥധർമ്മസംഗ്രഹം പ്രവചിക്കപ്പെടുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The *Praśastapāda-bhāṣya* opens with a bow: first to *Īśvara* (the Lord, the ultimate cause of the world), then to the sage *Kaṇāda* (the founder of the *Vaiśeṣika* system). With those salutations made, the author announces that he will now expound the *Padārthadharmasaṅgraha* — the great compendium of the properties of the categories — a work that leads to the highest good.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.introduction.2",
+    "text_key": "prashastapada",
+    "locator": "introduction.2",
+    "sa_devanagari": "द्रव्यगुणकर्मसामान्यविशेषसमवायानाम् षण्णाम् पदार्थानाम् साधर्म्यवैधर्म्यतत्त्वज्ञानम् निह्श्रेयसहेतुः ॥ १ ॥",
+    "sa_iast": "dravyaguṇakarmasāmānyaviśeṣasamavāyānām ṣaṇṇām padārthānām sādharmyavaidharmyatattvajñānam nihśreyasahetuḥ || 1 ||",
+    "literal_en": "Text (1):—A knowledge of the true nature of the six categories—Substance, Quality, Action, Generality, Individuality and Inherence—through their similarities and dissimilarities,—is the means of accomplishing the highest bliss.",
+    "ml_draft": {
+      "text": "ദ്രവ്യം, ഗുണം, കർമ്മം, സാമാന്യം, വിശേഷം, സമവായം എന്നീ ആറു പദാർത്ഥങ്ങളുടെ സാധർമ്മ്യ(സാമ്യലക്ഷണ)വൈധർമ്മ്യ(വ്യാവർത്തകലക്ഷണ)ങ്ങളിലൂടെ ഉള്ള തത്ത്വജ്ഞാനമാകുന്നു നിഃശ്രേയസ്സിന്റെ (പരമമോക്ഷത്തിന്റെ) ഹേതു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "True knowledge of the six *padārthas* — *dravya* (substance), *guṇa* (quality), *karma* (action), *sāmānya* (the universal or generality), *viśeṣa* (ultimate individuator), and *samavāya* (inherence) — grasped through their *sādharmya* (shared features) and *vaidharmya* (distinguishing features), is the means to *niḥśreyasa*, the highest good.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.introduction.3",
+    "text_key": "prashastapada",
+    "locator": "introduction.3",
+    "sa_devanagari": "तच्चेश्वरचोदनाभिव्यक्ताद्धर्मादेव ॥ २ ॥",
+    "sa_iast": "tacceśvaracodanābhivyaktāddharmādeva || 2 ||",
+    "literal_en": "Text (2)—This knowledge proceeds from dharma manifested by the injunctions of the Lord.",
+    "ml_draft": {
+      "text": "ആ (തത്ത്വജ്ഞാനം) ഈശ്വരചോദന (ഈശ്വരന്റെ വിധി/പ്രേരണ) കൊണ്ടു അഭിവ്യക്തമായ (പ്രകടമാക്കപ്പെട്ട) ധർമ്മത്തിൽ നിന്നു മാത്രമേ ഉണ്ടാകുന്നുള്ളൂ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "And that knowledge itself arises only from *dharma* — and the *dharma* in question is the *dharma* that is brought to fruition by *īśvara-codanā*, the injunctive will of the Lord, the scriptural command that activates *dharma*'s power to lead toward final release.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.introduction.4",
+    "text_key": "prashastapada",
+    "locator": "introduction.4",
+    "sa_devanagari": "सामान्यम् द्विविधम् परमपरं चानुवृत्तिप्रत्ययकारणम् । तत्र परं सत्ता, महाविषयत्वात् सा चानुवृत्तेरेव हेतुत्वात् सामान्यमेव । द्रव्यत्वाद्यपरमल्पविषयत्वात् । तच्च व्यावृत्तेरपि हेतुत्वात् सामान्यं सद्विशेषाख्यामपि लभते ॥ ७ ॥",
+    "sa_iast": "sāmānyam dvividham paramaparaṃ cānuvṛttipratyayakāraṇam | tatra paraṃ sattā, mahāviṣayatvāt sā cānuvṛttereva hetutvāt sāmānyameva | dravyatvādyaparamalpaviṣayatvāt | tacca vyāvṛtterapi hetutvāt sāmānyaṃ sadviśeṣākhyāmapi labhate || 7 ||",
+    "literal_en": "Text (7):—Of Generality, or Community, there are two kinds; the Higher and the Lower; and it serves as the basis of inclusive or comprehensive cognition. The Higher (or Highest) Generality is that of ‘Being’; as it is this that extends over the largest number of things; and also because it is this alone that is a Generality pure and simple, always serving, as it does, as the basis of comprehensive cognitions. The Lower Generalities are ‘Substance’ and the rest, which extend over a limited number of things. These latter, being the basis of inclusive as well as exclusive cognitions, are sometimes regarded as Individualities also.—(I-ii-1 to 5).",
+    "ml_draft": {
+      "text": "സാമാന്യം രണ്ടു വിധമാകുന്നു: പരം (ഉയർന്നത്) ഉം അപരം (താഴ്ന്നത്) ഉം; രണ്ടും അനുവൃത്തിപ്രത്യയ(‘ഇതും ഇതും ഒരേയിനം’ എന്നുള്ള സമാവേശബുദ്ധി)ത്തിന്റെ കാരണമാകുന്നു. അവയിൽ പരസാമാന്യം സത്താ (‘ഉള്ളത്’ എന്ന സാമാന്യം) ആകുന്നു; അതിന്റെ വിഷയം ഏറ്റവും വ്യാപകമാകയാലും, അനുവൃത്തിക്കു മാത്രമേ ഹേതുവാകുന്നതിനാലും അതു സാമാന്യം മാത്രമേ ആകുന്നുള്ളൂ. ദ്രവ്യത്വം മുതലായവ അപരസാമാന്യങ്ങളാകുന്നു; വിഷയം പരിമിതമാകയാൽ. അവ വ്യാവൃത്തി(വ്യാവർത്തനം — ഇതരവസ്തുക്കളിൽ നിന്നുള്ള വേർതിരിവ്)ക്കും ഹേതുവാകുന്നതുകൊണ്ടു സാമാന്യമെങ്കിലും ‘സദ്വിശേഷം’ എന്നുള്ള പേരും ലഭിക്കുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*sāmānya* — the universal or community-character — comes in two grades: *para* (higher) and *apara* (lower). Both function as the ground for *anuvṛtti-pratyaya*, the cognition that groups distinct things under one form (\"this too is X, that too is X\"). The highest *sāmānya* is *sattā*, Being-as-such, because it extends over the widest field of things and because it serves only as a ground of inclusion — never of exclusion — and so is purely *sāmānya*. The lower universals — *dravyatva* (substance-ness), *guṇatva* (quality-ness), and so on — range over a narrower field. Because they also serve to mark things off from what they are not, they earn the additional name *sad-viśeṣa* (a universal-which-also-individuates), even while remaining universals. (Vaiśeṣika-sūtra I.ii.1–5.)",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:00Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  }
+]

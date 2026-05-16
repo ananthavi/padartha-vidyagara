@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background-color: theme('colors.page.DEFAULT');
+  color: theme('colors.ink.DEFAULT');
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Devanagari and Malayalam need a touch more line-height than Latin. */
+.sa,
+.devanagari {
+  font-family: theme('fontFamily.devanagari');
+  line-height: 1.7;
+  letter-spacing: 0.005em;
+}
+
+.ml,
+.malayalam {
+  font-family: theme('fontFamily.malayalam');
+  line-height: 1.65;
+}
+
+/* Provenance stripes (vision Part III.4). A thin marginal indicator on
+   each paragraph, never an inline annotation that interrupts reading. */
+.provenance-stripe {
+  border-left-width: 2px;
+  padding-left: 1rem;
+  margin-left: -1rem;
+}
+.provenance-stripe[data-kind='traditional'] {
+  border-left-color: theme('colors.provenance.traditional');
+}
+.provenance-stripe[data-kind='paraphrase'] {
+  border-left-color: theme('colors.provenance.paraphrase');
+}
+.provenance-stripe[data-kind='bridge'] {
+  border-left-color: theme('colors.provenance.bridge');
+}

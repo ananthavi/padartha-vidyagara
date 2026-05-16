@@ -1,0 +1,85 @@
+name: Deploy to GitHub Pages
+
+# Static export of the reading view + praveśa entry + visualizations.
+# Server-only routes (the pūrvapakṣin API, the śāstrika authoring
+# console) are excluded from the static build — they require a Node
+# runtime. For a deployment that keeps them, use Cloudflare Pages with
+# the `@cloudflare/next-on-pages` adapter (see docs/DEPLOYMENT.md).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Validate content
+        run: npm run validate:content
+
+      - name: Exclude server-only routes from static export
+        # `output: 'export'` cannot handle API route handlers or routes
+        # that use dynamic functions at request time. The śāstrika
+        # console is also intentionally not for public deployment.
+        run: |
+          mkdir -p .build-excluded
+          mv app/api .build-excluded/ 2>/dev/null || true
+          mv app/shastrika .build-excluded/ 2>/dev/null || true
+
+      - name: Build static export
+        env:
+          STATIC_EXPORT: '1'
+          # Project pages live under /<repo-name>/ by default; override
+          # via repo / org Variables -> NEXT_PUBLIC_BASE_PATH if you use
+          # a custom domain or a user-site.
+          NEXT_PUBLIC_BASE_PATH: ${{ vars.NEXT_PUBLIC_BASE_PATH || format('/{0}', github.event.repository.name) }}
+        run: npm run build
+
+      - name: Restore excluded routes
+        if: always()
+        run: |
+          [ -d .build-excluded/api ] && mv .build-excluded/api app/api || true
+          [ -d .build-excluded/shastrika ] && mv .build-excluded/shastrika app/shastrika || true
+          rmdir .build-excluded 2>/dev/null || true
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

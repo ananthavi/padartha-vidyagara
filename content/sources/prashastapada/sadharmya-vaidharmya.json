@@ -1,0 +1,578 @@
+[
+  {
+    "id": "pp.sadharmya-vaidharmya.11",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.11",
+    "sa_devanagari": "षण्णामपि पदार्थानामस्तित्वाभिधेयत्वज्ञेयत्वानि ॥ ११ ॥",
+    "sa_iast": "ṣaṇṇāmapi padārthānāmastitvābhidheyatvajñeyatvāni || 11 ||",
+    "literal_en": "To all the six categories belong the properties of being-ness, predicability, and cognisability.",
+    "ml_draft": {
+      "text": "ആറ് പദാർത്ഥങ്ങൾക്കും അസ്തിത്വം (ഉണ്മ), അഭിധേയത്വം (പറയപ്പെടാവുന്നത് ആകുക), ജ്ഞേയത്വം (അറിയപ്പെടാവുന്നത് ആകുക) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു — അതായത് ദ്രവ്യം, ഗുണം, കർമ്മം, സാമാന്യം, വിശേഷം, സമവായം എന്നീ ആറു പദാർത്ഥങ്ങളും ഉള്ളവയും, ശബ്ദത്താൽ പറയപ്പെടാവുന്നവയും, ബുദ്ധിയാൽ അറിയപ്പെടാവുന്നവയും ആകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To all six *padārthas* — *dravya* (substance), *guṇa* (quality), *karma* (action), *sāmānya* (universal), *viśeṣa* (ultimate particular), and *samavāya* (inherence) — belong three shared properties: *astitva* (being-ness — existing in their own form), *abhidheyatva* (predicability — capability of being expressed in words), and *jñeyatva* (cognisability — capability of being known).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.12",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.12",
+    "sa_devanagari": "आश्रितत्वम् चान्यत्र नित्यद्रव्येभ्यः ॥ १२ ॥",
+    "sa_iast": "āśritatvam cānyatra nityadravyebhyaḥ || 12 ||",
+    "literal_en": "The character of being dependent (upon some thing else) belongs to all things except the eternal substances.",
+    "ml_draft": {
+      "text": "നിത്യദ്രവ്യങ്ങൾ (പരമാണു, ആകാശം, കാലം, ദിക്, ആത്മാ, മനസ്സ് എന്നിവ) ഒഴികെയുള്ള എല്ലാ പദാർത്ഥങ്ങൾക്കും ആശ്രിതത്വം (മറ്റൊന്നിനെ ആശ്രയിച്ച് ഇരിക്കുന്ന സ്വഭാവം) ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The character of *āśritatva* — being dependent on, or perceived as resting in, something else — belongs to every category except the *nitya-dravyas* (eternal substances: the four kinds of atoms, *ākāśa*, *kāla*, *dik*, *ātman*, and *manas*). This dependence is not the dependence of inherence but the experiential fact that such entities are always grasped as resting on a substrate.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.13",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.13",
+    "sa_devanagari": "द्रव्यादीनाम् पञ्चानाम् समवायित्वमनेकत्वम् च ॥ १३ ॥",
+    "sa_iast": "dravyādīnām pañcānām samavāyitvamanekatvam ca || 13 ||",
+    "literal_en": "To the five, Substance and the rest, belong the characters of inherability and plurality.",
+    "ml_draft": {
+      "text": "ദ്രവ്യം മുതലുള്ള അഞ്ച് പദാർത്ഥങ്ങൾക്കും (ദ്രവ്യം, ഗുണം, കർമ്മം, സാമാന്യം, വിശേഷം) സമവായിത്വം (സമവായ-സംബന്ധത്താൽ മറ്റൊന്നിൽ വർത്തിക്കുക) എന്നതും അനേകത്വം (പലത് ആകുക) എന്നതും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the five — *dravya*, *guṇa*, *karma*, *sāmānya*, and *viśeṣa* — belong two further shared characters: *samavāyitva* (inherability — the capacity to subsist in something else by the relation of *samavāya*) and *anekatva* (plurality — being many, i.e. distinct from one another). *Samavāya* itself is excluded, since it is one and is not itself inherent in anything further.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.14",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.14",
+    "sa_devanagari": "गुणादीनाम् पञ्चानामपि निर्गुणत्वनिष्क्रियत्वे ॥ १४ ॥",
+    "sa_iast": "guṇādīnām pañcānāmapi nirguṇatvaniṣkriyatve || 14 ||",
+    "literal_en": "To the five, Quality and the rest, also belong the character of being devoid of qualities, and that of being without action.",
+    "ml_draft": {
+      "text": "ഗുണം മുതലുള്ള അഞ്ച് പദാർത്ഥങ്ങൾക്കും (ഗുണം, കർമ്മം, സാമാന്യം, വിശേഷം, സമവായം) നിർഗുണത്വം (ഗുണരഹിതത്വം) എന്നതും നിഷ്ക്രിയത്വം (കർമ്മരഹിതത്വം) എന്നതും ഉണ്ടാകുന്നു. ദ്രവ്യത്തിന് മാത്രമേ ഗുണവും കർമ്മവും ഉള്ളൂ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the five — *guṇa*, *karma*, *sāmānya*, *viśeṣa*, *samavāya* — also belong two negative characters: *nirguṇatva* (being devoid of qualities) and *niṣkriyatva* (being devoid of action). Only *dravya* (substance) bears qualities and undergoes actions; the other five categories themselves carry no further qualities and perform no further actions.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.15",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.15",
+    "sa_devanagari": "द्रव्यादीनाम् त्रयाणामपि सत्तासम्बन्धः सामान्यविशेषवत्त्वं स्वसमयार्थशब्दाभिधेयत्वं धर्माधर्मकर्तृत्वं च ॥ १५ ॥",
+    "sa_iast": "dravyādīnām trayāṇāmapi sattāsambandhaḥ sāmānyaviśeṣavattvaṃ svasamayārthaśabdābhidheyatvaṃ dharmādharmakartṛtvaṃ ca || 15 ||",
+    "literal_en": "To the three, Substance and the rest, belong the relationship with Being, the character of having Communities and Individualities, that of being denoted by the word ‘artha’ as a technicality of the Vaiśeshika system, and that of being the cause of virtue and vice.",
+    "ml_draft": {
+      "text": "ദ്രവ്യം, ഗുണം, കർമ്മം എന്നീ മൂന്നു പദാർത്ഥങ്ങൾക്കും സത്താ-സംബന്ധം (മഹാ-സാമാന്യമായ 'സത്ത'യുമായുള്ള സമവായ-സംബന്ധം), സാമാന്യവിശേഷവത്ത്വം (അപര-സാമാന്യങ്ങളെ വഹിക്കുന്ന സ്വഭാവം), സ്വസമയത്തിൽ 'അർത്ഥ' എന്ന ശബ്ദത്താൽ അഭിധേയത്വം (വൈശേഷിക-ദർശനത്തിൻ്റെ പാരിഭാഷികമായി 'അർത്ഥം' എന്ന് വ്യവഹരിക്കപ്പെടുക), ധർമ്മാധർമ്മകർതൃത്വം (ധർമ്മത്തിനും അധർമ്മത്തിനും കാരണമാകുക) എന്നിവ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the three — *dravya*, *guṇa*, *karma* — belong four further shared characters: relation to *sattā* (Being, the highest universal, by inherence); *sāmānya-viśeṣa-vattva* (bearing intermediate universals like *dravyatva*, *guṇatva*, *karmatva* which function as both universal and particular); being denoted by the term *artha* as a technical word of the Vaiśeṣika system; and *dharma-adharma-kartṛtva* (being the locus or producer of merit and demerit).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.16",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.16",
+    "sa_devanagari": "कार्यत्वानित्यत्वे कारणवतामेव ॥ १६ ॥",
+    "sa_iast": "kāryatvānityatve kāraṇavatāmeva || 16 ||",
+    "literal_en": "The character of being an effect and that of being non-eternal, belong only to those (Substances, Qualities and Actions) that have causes.",
+    "ml_draft": {
+      "text": "ഈ മൂന്നു പദാർത്ഥങ്ങളിൽ (ദ്രവ്യം, ഗുണം, കർമ്മം) കാരണത്തോടു കൂടിയവയ്ക്കു മാത്രമേ കാര്യത്വം (ഒരു കാരണത്തിന്റെ കാര്യമാകുക) എന്നതും അനിത്യത്വം (നാശമുള്ളത് ആകുക) എന്നതും ഉണ്ടാകൂ. കാരണരഹിതങ്ങളായ പരമാണു, ആകാശം, കാലം, ദിക്, ആത്മാ, മനസ്സ് എന്നിവയ്ക്കും അവയിലെ ചില ഗുണങ്ങൾക്കും ഈ ധർമ്മങ്ങൾ ഇല്ല.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Kāryatva* (the character of being an effect) and *anityatva* (the character of being non-eternal — destructibility of the particular form) belong only to those *dravyas*, *guṇas*, and *karmas* that have causes. The eternal substances (atoms, *ākāśa*, *kāla*, *dik*, *ātman*, *manas*) and the qualities permanently resident in them lack both characters.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.17",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.17",
+    "sa_devanagari": "कारणत्वम् चान्यत्र पारिमाण्डल्यादिभ्यः ॥ १७ ॥",
+    "sa_iast": "kāraṇatvam cānyatra pārimāṇḍalyādibhyaḥ || 17 ||",
+    "literal_en": "The quality of being the cause belongs to all (Substances, Qualities and Actions) except the ‘atomic measure’ &c.",
+    "ml_draft": {
+      "text": "പാരിമാണ്ഡല്യം (പരമാണുവിന്റെ പ്രത്യേക പരിമാണം) മുതലായവയെ ഒഴിച്ച് മറ്റു ദ്രവ്യങ്ങൾ, ഗുണങ്ങൾ, കർമ്മങ്ങൾ എന്നിവയ്ക്കു കാരണത്വം (മറ്റൊന്നിന് കാരണമാകുക) ഉണ്ടാകുന്നു. പാരിമാണ്ഡല്യം, ദ്വ്യണുകത്തിന്റെ പരിമാണം, സർവ്വഗത പദാർത്ഥങ്ങളുടെ പരമമഹത്ത്വം, അന്ത്യശബ്ദം, മനസ്സിന്റെ പരിമാണം, പരത്വം, അപരത്വം മുതലായവയ്ക്കു കാരണത്വം ഇല്ല.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Kāraṇatva* (the quality of being a cause — material or efficient) belongs to all *dravyas*, *guṇas*, and *karmas* except certain enumerated cases: the *pārimāṇḍalya* (atomic measure of the *paramāṇu*), the dimension of the *dvyaṇuka*, the omnipresent measure (*parama-mahattva*) of *ākāśa*, *kāla*, *dik*, and *ātman*, the final sound, the dimension of *manas*, *paratva* and *aparatva* (posteriority and priority), and a few others which never function as causes of anything further.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.18",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.18",
+    "sa_devanagari": "द्रव्याश्रितत्वम् चान्यत्र नित्यद्रव्येभ्यः ॥ १८ ॥",
+    "sa_iast": "dravyāśritatvam cānyatra nityadravyebhyaḥ || 18 ||",
+    "literal_en": "The character of subsisting in substances (belongs to Substances, Qualities and Actions) with the exception of the eternal substances.",
+    "ml_draft": {
+      "text": "നിത്യദ്രവ്യങ്ങളെ ഒഴിച്ച് മറ്റു ദ്രവ്യങ്ങൾ, ഗുണങ്ങൾ, കർമ്മങ്ങൾ എന്നിവയ്ക്കു ദ്രവ്യാശ്രിതത്വം (ദ്രവ്യത്തിൽ സമവായ-സംബന്ധത്താൽ വർത്തിക്കുക) ഉണ്ടാകുന്നു. നിത്യദ്രവ്യങ്ങൾ മറ്റൊരു ദ്രവ്യത്തെ ആശ്രയിക്കാത്തവയാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Dravyāśritatva* (the character of subsisting in a *dravya* — i.e. having substance as one's material or non-material cause) belongs to *dravyas*, *guṇas*, and *karmas* with the exception of the *nitya-dravyas* (eternal substances). The eternal substances do not themselves rest on any further substance.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.19",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.19",
+    "sa_devanagari": "सामान्यादीनाम् त्रयाणां स्वात्मसत्त्वं बुद्धिलक्षणत्वमकार्यत्वमकारणत्वमसामान्यविशेषवत्त्वं नित्यत्वमर्थशब्दानभिधेयत्वम् चेति ॥ १९ ॥",
+    "sa_iast": "sāmānyādīnām trayāṇāṃ svātmasattvaṃ buddhilakṣaṇatvamakāryatvamakāraṇatvamasāmānyaviśeṣavattvaṃ nityatvamarthaśabdānabhidheyatvam ceti || 19 ||",
+    "literal_en": "The three beginning with Generality have the character—of having their sole being within themselves, having Buddhi or the Cognitive Faculty as their sole indicator, of not being an effect, of not being the cause, of having no particular generalities, of being eternal, and of not being expressible by the word ‘artha.’—(I-ii-10, 12, 14, 16, 3; VII-ii-26).",
+    "ml_draft": {
+      "text": "സാമാന്യം മുതലുള്ള മൂന്നു പദാർത്ഥങ്ങൾക്കും (സാമാന്യം, വിശേഷം, സമവായം) സ്വാത്മസത്ത്വം (തങ്ങളിൽത്തന്നെ സത്തയുള്ളവ — സത്താ-സാമാന്യത്തിന്റെ സമവായം കൂടാതെ തന്നെ), ബുദ്ധിലക്ഷണത്വം (ബുദ്ധി മാത്രമേ ഇവയ്ക്കു പ്രമാണം), അകാര്യത്വം (കാര്യമല്ലാത്തത്), അകാരണത്വം (കാരണവുമല്ലാത്തത്), അസാമാന്യവിശേഷവത്ത്വം (ഇവയ്ക്കു മേൽ വേറെ സാമാന്യങ്ങൾ ഇല്ലാത്തത്), നിത്യത്വം (നിത്യമായവ), 'അർത്ഥ' എന്ന ശബ്ദത്താൽ അനഭിധേയത്വം (പാരിഭാഷികമായ 'അർത്ഥ' ശബ്ദത്താൽ പറയപ്പെടാത്തവ) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the three beginning with *sāmānya* — *sāmānya*, *viśeṣa*, *samavāya* — belong seven shared characters: *svātma-sattva* (being in themselves, not by inhering in *sattā*); *buddhi-lakṣaṇatva* (cognition alone is the indicator of their existence — they produce no perceptible effect by which to infer them); *akāryatva* (not being effects); *akāraṇatva* (not being causes); *asāmānya-viśeṣavattva* (not bearing further intermediate universals); *nityatva* (eternity); and not being denoted by the technical term *artha*.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.20",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.20",
+    "sa_devanagari": "पृथिव्यादीनां नवानामपि द्रव्यत्वयोगः स्वात्मन्यारम्भकत्वं गुणवत्त्वं कार्यकारणविरोधित्वमन्त्यविशेषवत्त्वम् ॥ २० ॥",
+    "sa_iast": "pṛthivyādīnāṃ navānāmapi dravyatvayogaḥ svātmanyārambhakatvaṃ guṇavattvaṃ kāryakāraṇavirodhitvamantyaviśeṣavattvam || 20 ||",
+    "literal_en": "All the nine, Earth and the rest, have the character of—(1) belonging to the class ‘Substance,’ (2) self-productiveness or bringing about effects in themselves, (3) having qualities, (4) being not destructible by their causes and effects, and (5) being connected with ultimate Individualities.—(I-i-9, 10, 12, 15, 18, 5; X-ii-1, 2.)",
+    "ml_draft": {
+      "text": "പൃഥിവി മുതലുള്ള ഒൻപതു ദ്രവ്യങ്ങൾക്കും (പൃഥിവി, ആപസ്സ്, തേജസ്സ്, വായു, ആകാശം, കാലം, ദിക്, ആത്മാ, മനസ്സ്) ദ്രവ്യത്വയോഗം (ദ്രവ്യത്വ-സാമാന്യത്തിന്റെ സമവായം), സ്വാത്മനി ആരംഭകത്വം (തങ്ങളിൽത്തന്നെ കാര്യങ്ങളെ ഉണ്ടാക്കുക), ഗുണവത്ത്വം (ഗുണങ്ങളെ വഹിക്കുക), കാര്യകാരണവിരോധിത്വം (തങ്ങളുടെ കാര്യങ്ങളാലോ കാരണങ്ങളാലോ നശിക്കാത്തത്), അന്ത്യവിശേഷവത്ത്വം (നിത്യദ്രവ്യങ്ങളിലെ അന്ത്യവിശേഷങ്ങളുടെ ആധാരം ആകുക) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "All nine *dravyas* — *pṛthivī*, *ap*, *tejas*, *vāyu*, *ākāśa*, *kāla*, *dik*, *ātman*, *manas* — share five characters: (1) *dravyatva-yoga* (relation to the universal *dravyatva* by inherence); (2) *svātmany ārambhakatva* (producing effects in their own class — substance produces substance); (3) *guṇavattva* (being the locus of qualities); (4) *kārya-kāraṇa-virodhitva* (not being destroyed by their own effects or causes); and (5) *antya-viśeṣa-vattva* (each eternal substance bears the ultimate particularizers, *antya-viśeṣas*).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.21",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.21",
+    "sa_devanagari": "अनाश्रितत्वनित्यत्वे चान्यत्रावयविद्रव्येभ्यः ॥ २१ ॥",
+    "sa_iast": "anāśritatvanityatve cānyatrāvayavidravyebhyaḥ || 21 ||",
+    "literal_en": "The character of not being dependent and that of being eternal, belong to all (Substances) except those that are made up of certain constituent parts.",
+    "ml_draft": {
+      "text": "അവയവിദ്രവ്യങ്ങളെ (അവയവങ്ങളാൽ നിർമ്മിതമായ കാര്യദ്രവ്യങ്ങളെ) ഒഴിച്ച് മറ്റു ദ്രവ്യങ്ങൾക്കു — അതായത് നിത്യദ്രവ്യങ്ങൾക്കു — അനാശ്രിതത്വം (മറ്റൊന്നിനെ ആശ്രയിക്കാത്തത്, എവിടെയും സമവേതമല്ലാത്തത്) എന്നതും നിത്യത്വം (നാശമില്ലായ്മ) എന്നതും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "Among the *dravyas*, *anāśritatva* (not being dependent — not inhering in anything else) and *nityatva* (eternality — indestructibility) belong to all except the *avayavi-dravyas* (composite substances built up from parts). That is, only the eternal substances — *paramāṇus*, *ākāśa*, *kāla*, *dik*, *ātman*, *manas* — possess these two characters.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.22",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.22",
+    "sa_devanagari": "पृथिव्युदकज्वलनपवनात्ममनसामनेकत्वापरजातिमत्त्वे ॥ २२ ॥",
+    "sa_iast": "pṛthivyudakajvalanapavanātmamanasāmanekatvāparajātimattve || 22 ||",
+    "literal_en": "To Earth, Water, Fire, Air, Soul and Mind, belongs the character of being many, and also that of having lower or less extensive generalities.",
+    "ml_draft": {
+      "text": "പൃഥിവി, ഉദകം (ആപസ്സ്), ജ്വലനം (തേജസ്സ്), പവനം (വായു), ആത്മാ, മനസ്സ് എന്നീ ആറു ദ്രവ്യങ്ങൾക്കും അനേകത്വം (പലത് ആകുക) എന്നതും അപരജാതിമത്ത്വം (പൃഥിവീത്വം, ജലത്വം മുതലായ കുറഞ്ഞ വ്യാപ്തിയുള്ള അപര-സാമാന്യങ്ങളെ വഹിക്കുക) എന്നതും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To *pṛthivī*, *ap* (water), *tejas* (fire), *vāyu*, *ātman*, and *manas* belong *anekatva* (being many — these are not single but plural as a class) and *apara-jāti-mattva* (bearing lower, less extensive universals such as *pṛthivītva*, *jalatva*, etc., that pick out their sub-kind). *Ākāśa*, *kāla*, and *dik* are excluded since each is one only.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.23",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.23",
+    "sa_devanagari": "क्षितिजलज्योतिरनिलमनसां क्रियावत्त्वमूर्तत्वपरत्वापरत्ववेगवत्त्वानि ॥ २३ ॥",
+    "sa_iast": "kṣitijalajyotiranilamanasāṃ kriyāvattvamūrtatvaparatvāparatvavegavattvāni || 23 ||",
+    "literal_en": "To Earth, Water, Fire, Air and Mind, belong the character of having actions, being corporeal, having distance and proximity, and having speed.—(V-ii-1 to 7, V-ii-14; V-i-17; VII-ii-21.)",
+    "ml_draft": {
+      "text": "ക്ഷിതി (പൃഥിവി), ജലം (ആപസ്സ്), ജ്യോതിസ്സ് (തേജസ്സ്), അനിലം (വായു), മനസ്സ് എന്നീ അഞ്ചു ദ്രവ്യങ്ങൾക്കു ക്രിയാവത്ത്വം (കർമ്മത്തിന്റെ ആധാരം ആകുക), മൂർത്തത്വം (പരിച്ഛിന്ന-പരിമാണത്തോടു കൂടിയത് ആകുക), പരത്വം-അപരത്വം (പര-ദേശ-കാല സംബന്ധിയായ ദൂര-സാമീപ്യങ്ങളുടെ ആധാരം), വേഗവത്ത്വം (വേഗം എന്ന സംസ്കാരത്തിന്റെ ആധാരം) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To *pṛthivī*, *ap*, *tejas*, *vāyu*, and *manas* belong four shared characters: *kriyāvattva* (locus of *karma*, action), *mūrtatva* (being corporeal — possessing finite, limited dimension), *paratva-aparatva* (capable of bearing distance and proximity), and *vegavattva* (locus of *vega*, the *saṃskāra* of momentum). *Ātman* is excluded because, though active in another sense, it is all-pervading and not corporeal.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.24",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.24",
+    "sa_devanagari": "आकाशकालदिगात्मनां सर्वगतत्वं परममहत्त्वं सर्वसम्योगिसमानद्सत्वम् च ॥ २४ ॥",
+    "sa_iast": "ākāśakāladigātmanāṃ sarvagatatvaṃ paramamahattvaṃ sarvasamyogisamānadsatvam ca || 24 ||",
+    "literal_en": "To Ākāśa, Time and Space, belong the characters of—being all-pervasive, having the largest dimensions, and being the common receptacle of all corporeal things.—(VII-i-22, 24, 25.)",
+    "ml_draft": {
+      "text": "ആകാശം, കാലം, ദിക്, ആത്മാ എന്നീ നാലു ദ്രവ്യങ്ങൾക്കും സർവ്വഗതത്വം (എല്ലായിടവും വ്യാപിച്ചിരിക്കുക), പരമമഹത്ത്വം (പരമമായ വലിയ പരിമാണം), സർവ്വ-സംയോഗി-സമാന-ദേശത്വം (മൂർത്തങ്ങളായ എല്ലാ വസ്തുക്കളോടും സംയോഗത്തിലെത്തുന്നതും അവയ്ക്ക് ഏക-സാധാരണ ആധാരവുമാകുക) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To *ākāśa*, *kāla*, *dik*, and *ātman* belong three shared characters: *sarva-gatatva* (all-pervasiveness), *parama-mahattva* (the largest, all-encompassing dimension), and *sarva-saṃyogi-samāna-deśatva* (being the common locus that all corporeal *saṃyogins* — conjoined entities — share). (Jha's printed text omits *ātman* in the English gloss, but the Sanskrit *ātmanām* includes it.)",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.25",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.25",
+    "sa_devanagari": "पृथिव्यादीनां पञ्चानामपि भूतत्वेन्द्रियप्रकृतित्वबाह्यैकेन्द्रियग्राह्यविशेषगुणवत्त्वानि ॥ २५ ॥",
+    "sa_iast": "pṛthivyādīnāṃ pañcānāmapi bhūtatvendriyaprakṛtitvabāhyaikendriyagrāhyaviśeṣaguṇavattvāni || 25 ||",
+    "literal_en": "To the five beginning with Earth, belong the characters of—being material, being the main material principle of the sense-organs, and being endowed with such specific qualified as are each perceptible by each of the external organs of perception.—(VIII-ii-5, 6)",
+    "ml_draft": {
+      "text": "പൃഥിവി മുതലുള്ള അഞ്ച് ദ്രവ്യങ്ങൾക്കും (പൃഥിവി, ആപസ്സ്, തേജസ്സ്, വായു, ആകാശം) ഭൂതത്വം (ഭൂതം ആകുക — ജഡ-വസ്തു ആകുക), ഇന്ദ്രിയ-പ്രകൃതിത്വം (ഇന്ദ്രിയങ്ങളുടെ ഉപാദാന-കാരണം ആകുക), ബാഹ്യ-ഏക-ഇന്ദ്രിയ-ഗ്രാഹ്യ-വിശേഷ-ഗുണവത്ത്വം (ഓരോന്നിനും ബാഹ്യമായ ഒരേയൊരു ഇന്ദ്രിയത്താൽ ഗ്രഹിക്കപ്പെടാവുന്ന വിശേഷ-ഗുണം — ഗന്ധം, രസം, രൂപം, സ്പർശം, ശബ്ദം — ഉണ്ടാകുക) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the five beginning with *pṛthivī* — namely the five *mahābhūtas*: *pṛthivī*, *ap*, *tejas*, *vāyu*, *ākāśa* — belong three characters: *bhūtatva* (being a material element), *indriya-prakṛtitva* (being the primary material principle out of which the sense-organs are formed), and being endowed with a specific quality (*viśeṣa-guṇa*) that is grasped by one and only one external sense — *gandha* by smell, *rasa* by taste, *rūpa* by sight, *sparśa* by touch, *śabda* by hearing.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.26",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.26",
+    "sa_devanagari": "चतुर्णां द्रव्यारम्भकत्वस्पर्शवत्त्वे ॥ २६ ॥",
+    "sa_iast": "caturṇāṃ dravyārambhakatvasparśavattve || 26 ||",
+    "literal_en": "To the four belong the characters of—being the material or component cause of substances, and of being perceptible by touch.—(II-i-1 to 4; I-i-23)",
+    "ml_draft": {
+      "text": "നാലു ദ്രവ്യങ്ങൾക്കു (പൃഥിവി, ആപസ്സ്, തേജസ്സ്, വായു) ദ്രവ്യാരംഭകത്വം (ദ്രവ്യങ്ങളെ ആരംഭിക്കുക — സമവായി-കാരണമായി കാര്യദ്രവ്യങ്ങളെ ഉണ്ടാക്കുക) എന്നതും സ്പർശവത്ത്വം (സ്പർശം എന്ന ഗുണത്തിന്റെ ആധാരം ആകുക) എന്നതും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the four — *pṛthivī*, *ap*, *tejas*, *vāyu* — belong *dravyārambhakatva* (being the material (inherent) cause of further composite substances, i.e. building up *dvyaṇukas* and beyond) and *sparśavattva* (bearing *sparśa*, the quality of touch). *Ākāśa* is excluded because it neither composes new substances nor possesses touch.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.27",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.27",
+    "sa_devanagari": "त्रयाणां प्रत्यक्षत्वरूपवत्त्वद्रवत्वानि ॥ २७ ॥",
+    "sa_iast": "trayāṇāṃ pratyakṣatvarūpavattvadravatvāni || 27 ||",
+    "literal_en": "To the three, the characters of—being perceptible by the senses, having colour, and having fluidity.—(II-i-1, 2, 3, 6, 7).",
+    "ml_draft": {
+      "text": "മൂന്നു ദ്രവ്യങ്ങൾക്കു (പൃഥിവി, ആപസ്സ്, തേജസ്സ്) പ്രത്യക്ഷത്വം (പ്രത്യക്ഷത്താൽ ഗ്രഹിക്കപ്പെടാവുന്നത് ആകുക), രൂപവത്ത്വം (രൂപം എന്ന ഗുണത്തിന്റെ ആധാരം), ദ്രവത്വം (ദ്രവത്വം എന്ന ഗുണത്തിന്റെ ആധാരം — സ്വാഭാവികമോ നൈമിത്തികമോ ആയത്) എന്നീ ധർമ്മങ്ങൾ ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the three — *pṛthivī*, *ap*, *tejas* — belong *pratyakṣatva* (being perceptible by the external senses), *rūpavattva* (bearing *rūpa*, the quality of colour/form), and *dravatva* (the quality of fluidity, whether natural as in water or extraneous as in molten earth and fire). *Vāyu* is excluded as colourless and non-fluid.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.28",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.28",
+    "sa_devanagari": "द्वयोर्गुरुत्वं रसवत्त्वं च ॥ २८ ॥",
+    "sa_iast": "dvayorgurutvaṃ rasavattvaṃ ca || 28 ||",
+    "literal_en": "To the two, the character of having gravity and taste.—(II-i-1, 2; V-i-7, 18 V-ii-3).",
+    "ml_draft": {
+      "text": "രണ്ടു ദ്രവ്യങ്ങൾക്കു (പൃഥിവിക്കും ആപസ്സിനും) ഗുരുത്വം (ഭാരം എന്ന ഗുണത്തിന്റെ ആധാരം — പതനത്തിന്റെ കാരണം) എന്നതും രസവത്ത്വം (രസം എന്ന ഗുണത്തിന്റെ ആധാരം) എന്നതും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To the two — *pṛthivī* and *ap* — belong *gurutva* (the quality of weight, which is the cause of falling) and *rasavattva* (bearing *rasa*, the quality of taste). *Tejas* and *vāyu*, though corporeal, are weightless and tasteless.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.29",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.29",
+    "sa_devanagari": "भूतात्मनां वैशेषिकगुणवत्त्वम् ॥ २८ ॥",
+    "sa_iast": "bhūtātmanāṃ vaiśeṣikaguṇavattvam || 29 ||",
+    "literal_en": "All material substances and the Souls have the character of having specific qualities.",
+    "ml_draft": {
+      "text": "ഭൂതങ്ങൾക്കും (പൃഥിവി, ആപസ്സ്, തേജസ്സ്, വായു, ആകാശം) ആത്മാവിനും വൈശേഷിക-ഗുണവത്ത്വം (തങ്ങൾക്കു മാത്രമുള്ള വിശേഷ-ഗുണങ്ങളെ വഹിക്കുക) ഉണ്ടാകുന്നു — ഉദാഹരണത്തിന് പൃഥിവിയിലെ ഗന്ധം, ആത്മാവിലെ ബുദ്ധി, സുഖം, ദുഃഖം മുതലായവ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "All five *bhūtas* (*pṛthivī*, *ap*, *tejas*, *vāyu*, *ākāśa*) and the *ātman* share *vaiśeṣika-guṇa-vattva* — being the locus of *viśeṣa-guṇas*, specific qualities found in that substance alone (smell in *pṛthivī*, taste in *ap*, colour in *tejas*, touch in *vāyu*, sound in *ākāśa*; *buddhi*, *sukha*, *duḥkha*, etc. in the *ātman*).",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.30",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.30",
+    "sa_devanagari": "क्षित्युदकात्मनां चतुर्दशगुणवत्त्वम् ॥ ३० ॥",
+    "sa_iast": "kṣityudakātmanāṃ caturdaśaguṇavattvam || 30 ||",
+    "literal_en": "Earth, Water and the Souls have the fourteen qualities.—(II-i-1, 2, 6; IV-i-11; V-i-17, 18, 7; III-ii-4, 20, 21; II-ii-5, 2; V-ii-1, 3 to 6, V-ii-8, 11; IX-ii-6; VII-i-2.)",
+    "ml_draft": {
+      "text": "ക്ഷിതി (പൃഥിവി), ഉദകം (ആപസ്സ്), ആത്മാ എന്നീ മൂന്നു ദ്രവ്യങ്ങൾക്കു ചതുർദ്ദശ-ഗുണവത്ത്വം (പതിന്നാല് ഗുണങ്ങളെ വഹിക്കുക) ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Pṛthivī*, *ap*, and *ātman* each bear fourteen *guṇas* — among them the five sensible qualities appropriate to each, plus *saṃkhyā* (number), *parimāṇa* (dimension), *pṛthaktva* (distinctness), *saṃyoga* (conjunction), *vibhāga* (disjunction), *paratva*–*aparatva*, and others reckoned by Praśastapāda's enumeration. (The exact count varies in later Vaiśeṣika; Praśastapāda's list and the Vaiśeṣika-sūtra cross-references in Jha's note specify the items.)",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.31",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.31",
+    "sa_devanagari": "आकाशात्मनां क्षणिकैकदेशवृत्तिविशेषगुणवत्त्वम् ॥ ३१ ॥",
+    "sa_iast": "ākāśātmanāṃ kṣaṇikaikadeśavṛttiviśeṣaguṇavattvam || 31 ||",
+    "literal_en": "Ākāśa and the Souls have such specific qualities as last only a single moment and exist only over certain parts of their substrates.",
+    "ml_draft": {
+      "text": "ആകാശത്തിനും ആത്മാവിനും ക്ഷണിക-ഏക-ദേശ-വൃത്തി-വിശേഷ-ഗുണവത്ത്വം (ഒരു ക്ഷണം മാത്രം നിലനില്ക്കുന്നതും, തങ്ങളുടെ ആധാരത്തിന്റെ ഒരു ഭാഗത്ത് മാത്രം വർത്തിക്കുന്നതുമായ വിശേഷ-ഗുണങ്ങളെ വഹിക്കുക) എന്ന ധർമ്മം ഉണ്ടാകുന്നു — ഉദാഹരണത്തിന് ആകാശത്തിലെ ശബ്ദം (ഒരു സ്ഥലത്തു മാത്രം, ക്ഷണികം), ആത്മാവിലെ ബുദ്ധി-സുഖ-ദുഃഖാദികൾ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "To *ākāśa* and the *ātman* belongs the character of bearing *viśeṣa-guṇas* that are *kṣaṇika* (momentary — lasting only an instant) and *eka-deśa-vṛtti* (residing only in one part of their all-pervading substrate). Sound arises in one region of *ākāśa* and lasts a moment; *buddhi*, *sukha*, and *duḥkha* arise in one *ātman* at a time and pass quickly.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.32",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.32",
+    "sa_devanagari": "दिक्कालयोः पञ्चगुणवत्त्वं सर्वोत्पत्तिमतां निमित्तकारणत्वं च ॥ ३२ ॥",
+    "sa_iast": "dikkālayoḥ pañcaguṇavattvaṃ sarvotpattimatāṃ nimittakāraṇatvaṃ ca || 32 ||",
+    "literal_en": "Space and Time have the common character of having five qualities, and that of being the instrumental cause of all that has an origin.—(II-ii-8, 12, 9; II-i-31; VII-i-24, 25; VII-ii-22)",
+    "ml_draft": {
+      "text": "ദിക്കിനും കാലത്തിനും പഞ്ച-ഗുണവത്ത്വം (സംഖ്യ, പരിമാണം, പൃഥക്ത്വം, സംയോഗം, വിഭാഗം എന്നീ അഞ്ചു ഗുണങ്ങളെ വഹിക്കുക) എന്നതും സർവ-ഉത്പത്തിമത്ത്വാനാം നിമിത്ത-കാരണത്വം (ജനനമുള്ള എല്ലാ വസ്തുക്കൾക്കും നിമിത്ത-കാരണം — അവയുടെ ഉത്പത്തിക്കു സഹായമായ ദേശ-കാല ഉപാധി — ആകുക) എന്നതും ഉണ്ടാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Dik* and *kāla* share two characters: *pañca-guṇa-vattva* (bearing only five qualities — *saṃkhyā*, *parimāṇa*, *pṛthaktva*, *saṃyoga*, *vibhāga*) and being the *nimitta-kāraṇa* (instrumental cause) of everything that has an origin: every produced thing requires space to be in and time to be in.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.33",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.33",
+    "sa_devanagari": "क्षितितेजसोर्नैमित्तिकद्रवत्वयोगः ॥ ३३ ॥",
+    "sa_iast": "kṣititejasornaimittikadravatvayogaḥ || 33 ||",
+    "literal_en": "Earth and Fire are possessed of only such Fluidity as is brought about by extraneous causes.—(II-i-6, 7.)",
+    "ml_draft": {
+      "text": "ക്ഷിതിക്കും (പൃഥിവി) തേജസ്സിനും നൈമിത്തിക-ദ്രവത്വ-യോഗം (ബാഹ്യ-കാരണത്താൽ ഉണ്ടാകുന്ന ദ്രവത്വവുമായുള്ള യോഗം — അതായത് അഗ്നി-സംസർഗ്ഗത്താൽ പൃഥിവി ഉരുകുമ്പോഴും തേജസ്സ് ദ്രവിക്കുമ്പോഴും ഉള്ള ദ്രവത്വം) ഉണ്ടാകുന്നു. ആപസ്സിലെ ദ്രവത്വം സ്വാഭാവികം; ഇവിടെ നൈമിത്തികം.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*Pṛthivī* (earth) and *tejas* (fire) possess *dravatva* (fluidity) only as *naimittika* — produced by an extraneous cause: earth flows only when melted by fire (e.g. molten metal, ghee); fire flows only under particular conditions. In *ap* (water), fluidity is *sāṃsiddhika* — natural and intrinsic.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.sadharmya-vaidharmya.34",
+    "text_key": "prashastapada",
+    "locator": "sadharmya-vaidharmya.34",
+    "sa_devanagari": "एवं सर्वत्र साधर्म्यं विपर्ययाद्वैधर्म्यं च वाच्यमिति द्रव्यासङ्करः ॥ ३४ ॥",
+    "sa_iast": "evaṃ sarvatra sādharmyaṃ viparyayādvaidharmyaṃ ca vācyamiti dravyāsaṅkaraḥ || 34 ||",
+    "literal_en": "In this way we may describe the similarities of all things, and contrariwise, also their dissimilarities; and thus there would be no intermixture (or confusion) among the various substances.—(I-i-13, 14; V-ii-21.)",
+    "ml_draft": {
+      "text": "ഇപ്രകാരം എല്ലായിടത്തും സാധർമ്മ്യം (പങ്കിടുന്ന ധർമ്മങ്ങൾ) വാച്യമാകുന്നു; വിപര്യയത്താൽ (മറുവശത്തു നോക്കിയാൽ) വൈധർമ്മ്യവും (പങ്കിടാത്ത ധർമ്മങ്ങളും) വാച്യമാകുന്നു. ഇത് കൊണ്ടു ദ്രവ്യ-അസങ്കരം (ദ്രവ്യങ്ങൾ തമ്മിലുള്ള പരസ്പര-വിവേചനം — കൂടിക്കലരായ്ക) സിദ്ധിക്കുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "In this way, *sādharmya* (the shared characters) of everything may be described, and *vaidharmya* (the unshared, distinguishing characters) by the converse. The point of the whole enumeration is *dravya-asaṅkara* — the non-confusion of the substances. Each *padārtha* is clearly delimited from every other by which characters it shares and which it lacks, so that the six categories do not collapse into one another.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:23:23Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  }
+]

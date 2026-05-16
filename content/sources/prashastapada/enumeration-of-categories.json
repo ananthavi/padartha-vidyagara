@@ -1,0 +1,170 @@
+[
+  {
+    "id": "pp.enumeration-of-categories.3",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.3",
+    "sa_devanagari": "अथ के द्रव्यादयः पदार्थाः किं च तेषां साधर्म्यं वैधर्म्यं चेति ॥ तत्र द्रव्याणि पृथिव्यप्तेजोवाय्वाकाशकालदिगात्ममनांसि सामान्यविशेषसंज्ञयोक्तानि नवैवेति । तद्व्यतिरेकेणान्यस्य संज्ञानभिधानात् ॥ ३ ॥",
+    "sa_iast": "atha ke dravyādayaḥ padārthāḥ kiṃ ca teṣāṃ sādharmyaṃ vaidharmyaṃ ceti || tatra dravyāṇi pṛthivyaptejovāyvākāśakāladigātmamanāṃsi sāmānyaviśeṣasaṃjñayoktāni navaiveti | tadvyatirekeṇānyasya saṃjñānabhidhānāt || 3 ||",
+    "literal_en": "\"Which are the categories, 'substance and the rest'? And what are their 'similarities and dissimilarities'?\" Among these the Substances are—\"Earth, Water, Light, Air, Ether (Ākāśa), Time, Space, Self and Mind. These, mentioned in the sūtra by their general as well as specific names, are nine only; as besides these none other is mentioned by name.—(I-i-5).\"",
+    "ml_draft": {
+      "text": "എന്നാൽ ദ്രവ്യാദികളായ പദാർത്ഥങ്ങൾ ഏതെല്ലാമാകുന്നു, അവയുടെ സാധർമ്മ്യവൈധർമ്മ്യങ്ങൾ എന്തെല്ലാമാകുന്നു? — അവയിൽ ദ്രവ്യങ്ങൾ പൃഥിവി, ആപസ്സ്, തേജസ്സ്, വായു, ആകാശം, കാലം, ദിക്, ആത്മാ, മനസ്സ് എന്നിങ്ങനെ — സാമാന്യസംജ്ഞയിലൂടെയും വിശേഷസംജ്ഞയിലൂടെയും സൂത്രത്തിൽ ഉക്തങ്ങളായ — ഒൻപതെണ്ണം മാത്രമേയുള്ളൂ; ഇവയിൽ നിന്നു വേറെയായ മറ്റൊന്നിന്റെ സംജ്ഞ പറയപ്പെട്ടിട്ടില്ലെന്നതുകൊണ്ടു തന്നെ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "What, then, are the *padārtha*s — *dravya* and the rest — and what are their points of likeness (*sādharmya*) and unlikeness (*vaidharmya*)? Among them, the *dravya*s (substances) are exactly nine: *pṛthivī* (earth), *ap* (water), *tejas* (light/fire), *vāyu* (air), *ākāśa* (ether), *kāla* (time), *dik* (space/direction), *ātman* (self), and *manas* (mind). The sūtra names these by both their general designation (*sāmānya-saṃjñā*, e.g. \"substance\") and their specific designation (*viśeṣa-saṃjñā*, e.g. \"earth\"); and there are only these nine, since no other has been named.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.enumeration-of-categories.5",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.5",
+    "sa_devanagari": "गुणाश्च रूपरसगन्धस्पर्शसंख्यापरिमाणपृथक्त्वसम्योगविभागपरत्वापरत्वबुद्धिसुखदुःखेच्छाद्वेषप्रयत्नाश्चेति कण्ठोक्ताः सप्तदश । चशब्दसमुच्चिताश्च गुरुत्वद्रवत्वस्नेहसंस्कारादूष्टशब्दाः सप्तैवेत्येवम् चतुर्विंशतिर्गुणाः ॥ ५ ॥",
+    "sa_iast": "guṇāśca rūparasagandhasparśasaṃkhyāparimāṇapṛthaktvasamyogavibhāgaparatvāparatvabuddhisukhaduḥkhecchādveṣaprayatnāśceti kaṇṭhoktāḥ saptadaśa | caśabdasamuccitāśca gurutvadravatvasnehasaṃskārādṛṣṭaśabdāḥ saptaivetyevam caturviṃśatirguṇāḥ || 5 ||",
+    "literal_en": "\"The qualities are:—Colour, Taste, Odour, Touch, Number, Dimension, Separateness, Conjunction, Disjunction, Distance, Proximity, Intellect, Pleasure, Pain, Desire, Aversion and Effort; these are the seventeen that are directly mentioned in the Sūtra. The word 'ca' (in the Sūtra) however indicates the other seven: viz: Gravity, Fluidity, Viscidity, Faculty, the two-fold invisible Force and Sound. These make up the twenty-four qualities.\"—(I-i-6)",
+    "ml_draft": {
+      "text": "ഗുണങ്ങൾ — രൂപം, രസം, ഗന്ധം, സ്പർശം, സംഖ്യ, പരിമാണം, പൃഥക്ത്വം, സംയോഗം, വിഭാഗം, പരത്വം, അപരത്വം, ബുദ്ധി, സുഖം, ദുഃഖം, ഇച്ഛ, ദ്വേഷം, പ്രയത്നം — എന്നിങ്ങനെ പതിനേഴു ഗുണങ്ങൾ സൂത്രത്തിൽ കണ്ഠോക്തങ്ങളായി പറയപ്പെട്ടിരിക്കുന്നു. സൂത്രത്തിലെ 'ച' ശബ്ദത്താൽ സമുച്ചയിക്കപ്പെടുന്നവ ഏഴെണ്ണം — ഗുരുത്വം, ദ്രവത്വം, സ്നേഹം, സംസ്കാരം, അദൃഷ്ടം (ധർമാധർമലക്ഷണമായ ദ്വിവിധശക്തി), ശബ്ദം എന്നിങ്ങനെ; (സംസ്കാരവും അദൃഷ്ടവും വാസ്തവത്തിൽ പല ഗുണങ്ങളെ ഉൾക്കൊള്ളുന്നതുകൊണ്ടു മൊത്തം ഏഴായിത്തീരുന്നു.) ഇപ്രകാരം ഗുണങ്ങൾ ഇരുപത്തിനാല്.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The *guṇa*s (qualities) explicitly named in the sūtra are seventeen: colour (*rūpa*), taste (*rasa*), smell (*gandha*), touch (*sparśa*), number (*saṃkhyā*), dimension (*parimāṇa*), separateness (*pṛthaktva*), conjunction (*saṃyoga*), disjunction (*vibhāga*), remoteness (*paratva*), nearness (*aparatva*), cognition (*buddhi*), pleasure (*sukha*), pain (*duḥkha*), desire (*icchā*), aversion (*dveṣa*), and effort (*prayatna*). The particle *ca* (\"and\") in the sūtra brings in seven more: heaviness (*gurutva*), fluidity (*dravatva*), viscidity (*sneha*), latent disposition (*saṃskāra*), the twofold unseen moral force (*adṛṣṭa*, i.e. *dharma* and *adharma*), and sound (*śabda*). Thus the *guṇa*s number twenty-four in all.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.enumeration-of-categories.6",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.6",
+    "sa_devanagari": "उत्क्षेपणापक्षेपणाकुञ्चनप्रसारणगमनानि पञ्चैव कर्माणि । गमनग्रहणाद्भ्रमणरेचनस्यन्दनोर्ध्वज्वलनतिर्यक्पवननमनोन्नमनादयो गमनविशेषा न जात्यन्तराणि ॥ ६ ॥",
+    "sa_iast": "utkṣepaṇāpakṣepaṇākuñcanaprasāraṇagamanāni pañcaiva karmāṇi | gamanagrahaṇādbhramaṇarecanasyandanordhvajvalanatiryakpavananamanonnamanādayo gamanaviśeṣā na jātyantarāṇi || 6 ||",
+    "literal_en": "\"Throwing upwards, Throwing downwards, Contracting, Expanding, and Going—these are the only five actions, because of the mention of Going: all such actions as Gyrating, Evacuating, Quivering, Flowing upwards, Transverse Fulling, Falling downwards, Rising and the like, being only particular forms of Going, and not forming distinct classes by themselves\" (I-i-7)",
+    "ml_draft": {
+      "text": "ഉത്ക്ഷേപണം (മേല്പോട്ടെറിയൽ), അപക്ഷേപണം (കീഴോട്ടെറിയൽ), ആകുഞ്ചനം (ചുരുങ്ങൽ), പ്രസാരണം (നീട്ടൽ), ഗമനം (പോക്ക്) — ഇങ്ങനെ കർമ്മങ്ങൾ അഞ്ചു മാത്രമേയുള്ളൂ. 'ഗമനം' എന്നതിനെ സൂത്രത്തിൽ ഗ്രഹിച്ചതുകൊണ്ടു ഭ്രമണം (കറക്കം), രേചനം (ഒഴിക്കൽ), സ്യന്ദനം (ഒഴുകൽ), ഊർധ്വജ്വലനം (മേല്പോട്ടു ജ്വലിക്കൽ), തിര്യക്പവനം (തിര്യഗ്ഗതി), നമനം (തലകുനിക്കൽ), ഉന്നമനം (തലയുയർത്തൽ) ഇത്യാദികളെല്ലാം ഗമനത്തിന്റെ വിശേഷങ്ങൾ മാത്രമാകുന്നു; അവ വേറെ ജാത്യന്തരങ്ങളല്ല.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The *karma*s (motions/actions) are just five: *utkṣepaṇa* (upward throwing), *apakṣepaṇa* (downward throwing), *ākuñcana* (contraction), *prasāraṇa* (expansion), and *gamana* (going). The sūtra mentions *gamana* with the intent that other motions — gyrating (*bhramaṇa*), evacuating (*recana*), flowing (*syandana*), flaming upward (*ūrdhva-jvalana*), moving sideways (*tiryak-pavana*), bowing (*namana*), rising (*unnamana*), and so on — are not distinct *jāti*s (classes) but only varieties of *gamana*.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.enumeration-of-categories.7",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.7",
+    "sa_devanagari": "सामान्यम् द्विविधम् परमपरं चानुवृत्तिप्रत्ययकारणम् । तत्र परं सत्ता, महाविषयत्वात् सा चानुवृत्तेरेव हेतुत्वात् सामान्यमेव । द्रव्यत्वाद्यपरमल्पविषयत्वात् । तच्च व्यावृत्तेरपि हेतुत्वात् सामान्यं सद्विशेषाख्यामपि लभते ॥ ७ ॥",
+    "sa_iast": "sāmānyam dvividham paramaparaṃ cānuvṛttipratyayakāraṇam | tatra paraṃ sattā, mahāviṣayatvāt sā cānuvṛttereva hetutvāt sāmānyameva | dravyatvādyaparamalpaviṣayatvāt | tacca vyāvṛtterapi hetutvāt sāmānyaṃ sadviśeṣākhyāmapi labhate || 7 ||",
+    "literal_en": "\"Of Generality, or Community, there are two kinds; the Higher and the Lower; and it serves as the basis of inclusive or comprehensive cognition. The Higher (or Highest) Generality is that of 'Being'; as it is this that extends over the largest number of things; and also because it is this alone that is a Generality pure and simple, always serving, as it does, as the basis of comprehensive cognitions. The Lower Generalities are 'Substance' and the rest, which extend over a limited number of things. These latter, being the basis of inclusive as well as exclusive cognitions, are sometimes regarded as Individualities also.\"—(I-ii-1 to 5).",
+    "ml_draft": {
+      "text": "സാമാന്യം രണ്ടു വിധം — പരം എന്നും അപരം എന്നും. അനുവൃത്തിപ്രത്യയത്തിന്റെ (ഒരേ കാര്യത്തെ പല വസ്തുക്കളിൽ കാണുന്നതിന്റെ) ഹേതുവാകുന്നു സാമാന്യം. അവയിൽ പരം എന്നു പറയുന്നതു സത്ത (സത്താ) ആകുന്നു — അതു മഹാവിഷയത്വം ഉള്ളതുകൊണ്ടും, വെറും അനുവൃത്തിക്കു മാത്രമേ ഹേതുവാകുന്നുള്ളൂ എന്നതുകൊണ്ടും, ശുദ്ധസാമാന്യമത്രേ. ദ്രവ്യത്വം മുതലായവ അൽപവിഷയം ഉള്ളതുകൊണ്ടു അപരസാമാന്യങ്ങളാകുന്നു. അവ വ്യാവൃത്തിക്കും (മറ്റു വർഗ്ഗങ്ങളിൽ നിന്നു വേർതിരിക്കുന്നതിന്നും) ഹേതുവാകുന്നതുകൊണ്ടു സാമാന്യമെങ്കിലും വിശേഷം എന്നു കൂടി വ്യപദേശിക്കപ്പെടുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*sāmānya* (generality, the common nature shared across many) is of two kinds: *para* (higher) and *apara* (lower). It is what gives rise to *anuvṛtti-pratyaya* — the inclusive cognition that recognises a common form across instances. The *para sāmānya* is *sattā* (Being itself), since it ranges over the widest field and is the cause of inclusive cognition alone; it is therefore *sāmānya* pure and simple. The *apara sāmānya*s — *dravyatva* (substance-ness), *guṇatva*, *karmatva*, and so on — range over fewer things; and because they also cause *vyāvṛtti-pratyaya* (the exclusive cognition that marks one class off from another), they are sometimes designated *viśeṣa* (\"specifier\") as well.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.enumeration-of-categories.8",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.8",
+    "sa_devanagari": "नित्यद्रव्यवृत्तयोऽन्त्या विशेषाः । ते खल्वत्यन्तव्यावृत्तिहेतुत्वाद्विशेषा एव ॥ ८ ॥",
+    "sa_iast": "nityadravyavṛttayo'ntyā viśeṣāḥ | te khalvatyantavyāvṛttihetutvādviśeṣā eva || 8 ||",
+    "literal_en": "\"The ultimate specialising factors inhering in eternal substances are the Individualities. In as much as they serve the purpose of absolute exclusion, they are Individualities, pure and simple.\"",
+    "ml_draft": {
+      "text": "നിത്യദ്രവ്യങ്ങളിൽ വൃത്തിച്ചിരിക്കുന്ന അന്ത്യങ്ങളായവ വിശേഷങ്ങളാകുന്നു. അവ അത്യന്തവ്യാവൃത്തിക്കു (നിത്യദ്രവ്യങ്ങളെ പരസ്പരം പൂർണ്ണമായി വേർതിരിക്കുന്നതിന്നു) ഹേതുവായതുകൊണ്ടു ശുദ്ധവിശേഷങ്ങൾ തന്നെയാകുന്നു.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "The *antya viśeṣa*s — the ultimate individualities — inhere in *nitya-dravya*s (eternal substances, such as the *paramāṇu*s, *ākāśa*, *kāla*, *dik*, *ātman*, and *manas*). Because they ground *atyanta-vyāvṛtti* (absolute distinction, marking off one eternal substance from another even when all other features are identical), they are *viśeṣa* in the strictest sense — never relapsing into a generality.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.enumeration-of-categories.9",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.9",
+    "sa_devanagari": "अयुतसिद्धानामाधार्याधारभूतानां यः सम्बन्धः इहप्रत्ययहेतुः स समवायः ॥ ९ ॥",
+    "sa_iast": "ayutasiddhānāmādhāryādhārabhūtānāṃ yaḥ sambandhaḥ ihapratyayahetuḥ sa samavāyaḥ || 9 ||",
+    "literal_en": "\"Inherence is the relationship subsisting among things that are inseparable, standing to one another in the character of the container and the contained,—such relationship being the basis of the idea that 'this is in that'.\"",
+    "ml_draft": {
+      "text": "സമവായം എന്നുള്ളതു അയുതസിദ്ധങ്ങളായ (പരസ്പരം വേർപെടാത്ത) — ആധാര്യാധാരഭാവത്തിൽ നിലനിൽക്കുന്ന — വസ്തുക്കളുടെ സംബന്ധമാകുന്നു; ഈ സംബന്ധം 'ഇതിൽ ഇതുണ്ടു' എന്ന ഇഹപ്രത്യയത്തിന്റെ ഹേതുവത്രേ.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "*samavāya* — inseparable inherence — is the relation that holds between *ayuta-siddha* terms, that is, between things that cannot exist apart from each other and that stand in the relation of *ādhāra* (container, locus) and *ādheya* (contained, located). It is precisely this relation that grounds the *iha-pratyaya*, the cognition \"this is in that\" (e.g. \"the cloth is in these threads\", \"substance-ness is in this substance\").",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "id": "pp.enumeration-of-categories.10",
+    "text_key": "prashastapada",
+    "locator": "enumeration-of-categories.10",
+    "sa_devanagari": "एवम् धर्मैर्विना धर्मिणामुद्देशः कृतः ॥ १० ॥",
+    "sa_iast": "evam dharmairvinā dharmiṇāmuddeśaḥ kṛtaḥ || 10 ||",
+    "literal_en": "\"So far we have mentioned, the objects without saying anything as to their properties.\"",
+    "ml_draft": {
+      "text": "ഇപ്രകാരം ധർമ്മങ്ങളെ പറയാതെ ധർമ്മികളെ (പദാർത്ഥങ്ങളെ) മാത്രമേ ഇതുവരെ ഉദ്ദേശിച്ചിട്ടുള്ളൂ; ഇനി അവയുടെ ധർമ്മങ്ങളെ പറയാൻ പോകുന്നു എന്നു സൂചന.",
+      "style": "manipravalam-conscious traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    },
+    "en_simple_draft": {
+      "text": "Thus, so far, the *dharmin*s (the property-bearers — the six *padārtha*s themselves) have been enumerated without yet treating their *dharma*s (properties, characteristic features). This closing line signals the transition from the bare *uddeśa* (naming) of the categories to the *lakṣaṇa* (defining) and *parīkṣā* (examination) of their attributes, which the work takes up next.",
+      "style": "traditional-simple",
+      "generated_by": "claude-agent-ingestion",
+      "generated_at": "2026-05-15T13:21:08Z",
+      "reviewed_by": null,
+      "reviewed_at": null
+    }
+  }
+]
