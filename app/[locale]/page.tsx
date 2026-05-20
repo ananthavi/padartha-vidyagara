@@ -31,18 +31,19 @@ export default function PraveshaPage({ params }: { params: { locale: string } })
 
       {/*
         A quiet doorway forward. Not a "next up" rail (vision Part XI
-        forbids that) — a single named link to the first node. The
-        learner moves; the environment offers.
+        forbids that) — a single named link to the concept index, from
+        which the learner picks. Each padārtha in the SevenPadarthasGraph
+        above is also independently clickable.
       */}
       <nav
-        aria-label={locale === 'ml' ? 'ഗ്രന്ഥത്തിലേക്ക്' : 'into the text'}
+        aria-label={locale === 'ml' ? 'പദാർത്ഥങ്ങളിലേക്ക്' : 'into the concepts'}
         className="mx-auto mt-16 max-w-prose px-6 text-center"
       >
         <Link
-          href={`/${locale}/concept/samavaya`}
+          href={`/${locale}/concepts`}
           className="text-sm text-ink-faint underline-offset-4 transition-colors hover:text-ink-muted hover:underline"
         >
-          {locale === 'ml' ? 'സമവായം →' : 'samavāya →'}
+          {locale === 'ml' ? 'പദാർത്ഥങ്ങൾ →' : 'padārthas →'}
         </Link>
       </nav>
     </div>

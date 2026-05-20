@@ -5,7 +5,7 @@
   "installCommand": "npm install",
   "git": {
     "deploymentEnabled": {
-      "main": true
+      "padartha-vidyagara": true
     }
   },
   "headers": [
@@ -21,10 +21,5 @@
         { "key": "Cache-Control", "value": "no-store, no-cache, must-revalidate, max-age=0" }
       ]
     }
-  ],
-  "functions": {
-    "app/api/purvapakshin/route.ts": {
-      "maxDuration": 60
-    }
-  }
+  ]
 }

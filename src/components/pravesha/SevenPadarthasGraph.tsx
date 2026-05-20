@@ -229,7 +229,10 @@ export function SevenPadarthasGraph({ locale = 'en' }: SevenPadarthasGraphProps)
             );
           })}
 
-          {/* Nodes. */}
+          {/* Nodes. Each is an <a> link to the concept page, so a learner
+              who recognises the padārtha can step into its concept node
+              immediately. Discoverability without push — the link is
+              there, no arrow or "click me" prompt. */}
           {PADARTHAS.map((p) => {
             const pos = POSITIONS[p.id];
             const visible = isRevealed(p.id);
@@ -240,34 +243,43 @@ export function SevenPadarthasGraph({ locale = 'en' }: SevenPadarthasGraphProps)
                 animate={{ opacity: visible ? 1 : 0 }}
                 transition={{ duration: 0.7, ease: 'easeOut' }}
               >
-                <circle
-                  cx={pos.cx}
-                  cy={pos.cy}
-                  r={42}
-                  fill="#fbf7ee"
-                  stroke="#3a5a7a"
-                  strokeWidth={1}
-                />
-                <text
-                  x={pos.cx}
-                  y={pos.cy - 2}
-                  textAnchor="middle"
-                  className="sa"
-                  fontSize="22"
-                  fill="#1a1814"
+                <a
+                  href={`/${locale}/concept/${p.slug}`}
+                  aria-label={`${p.title_iast} concept`}
+                  style={{
+                    cursor: visible ? 'pointer' : 'default',
+                    pointerEvents: visible ? 'all' : 'none',
+                  }}
                 >
-                  {p.title_sa}
-                </text>
-                <text
-                  x={pos.cx}
-                  y={pos.cy + 16}
-                  textAnchor="middle"
-                  fontSize="10"
-                  fontStyle="italic"
-                  fill="#5a554c"
-                >
-                  {p.title_iast}
-                </text>
+                  <circle
+                    cx={pos.cx}
+                    cy={pos.cy}
+                    r={42}
+                    fill="#fbf7ee"
+                    stroke="#3a5a7a"
+                    strokeWidth={1}
+                  />
+                  <text
+                    x={pos.cx}
+                    y={pos.cy - 2}
+                    textAnchor="middle"
+                    className="sa"
+                    fontSize="22"
+                    fill="#1a1814"
+                  >
+                    {p.title_sa}
+                  </text>
+                  <text
+                    x={pos.cx}
+                    y={pos.cy + 16}
+                    textAnchor="middle"
+                    fontSize="10"
+                    fontStyle="italic"
+                    fill="#5a554c"
+                  >
+                    {p.title_iast}
+                  </text>
+                </a>
               </motion.g>
             );
           })}

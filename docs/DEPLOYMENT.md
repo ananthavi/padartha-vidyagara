@@ -31,11 +31,11 @@ streaming SSE from `/api/purvapakshin`, `next/font` typography,
 ### One-time setup (3–4 minutes)
 
 1. **Create a Vercel account** at https://vercel.com if you don't have
-   one. Sign in with the GitHub account that owns `ananthavi/padartha-vidyagara`.
+   one. Sign in with the GitHub account that owns this repository.
 2. **Import the project**: Vercel dashboard → *Add New* → *Project* →
-   pick `ananthavi/padartha-vidyagara`. The "Production Branch" selector should point
-   at `main` (Vercel will offer your current default;
-   change it if needed).
+   pick `padartha-vidyagara`. The "Production Branch" selector should
+   point at `main` (Vercel will offer your current default; change it
+   if needed).
 3. **Framework preset**: Vercel auto-detects *Next.js*. Leave the build
    defaults — they match this repo's `package.json` scripts:
    - Build command: `npm run build` (which runs
@@ -54,7 +54,7 @@ streaming SSE from `/api/purvapakshin`, `next/font` typography,
    preview deploys (per PR) to have access too. Marking as *Production*
    only is safer if you'd rather not burn LLM credits on every preview.
 5. **Deploy**. The first build takes ~2–3 minutes. Subsequent pushes
-   to `main` trigger automatic deploys; PRs against it
+   to `padartha-vidyagara` trigger automatic deploys; PRs against it
    get isolated preview URLs.
 
 ### Domain
@@ -223,7 +223,7 @@ npx serve out
 Same artifact as GitHub Pages; just point Cloudflare at the repo.
 
 1. **In the Cloudflare dashboard**, create a Pages project pointing at
-   `ananthavi/padartha-vidyagara`, branch `main`.
+   this repository, branch `main`.
 2. **Build configuration**:
    - Framework preset: **Next.js (Static HTML Export)**
    - Build command: `STATIC_EXPORT=1 npm run build`
